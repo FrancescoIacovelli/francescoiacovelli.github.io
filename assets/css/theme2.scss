@@ -1,6 +1,3 @@
----
-# Only the main Sass file needs front matter (the dashes are enough)
----
 
 @charset "utf-8";
 
@@ -48,7 +45,4 @@
 	box-shadow: 1px 0px 5px 2px mix(#000, $background-color, 10%);
 }
 
-.icon-light-dark {
-   class:"fa fa-moon";
-}
 
