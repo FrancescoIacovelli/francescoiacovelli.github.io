@@ -63,23 +63,23 @@ University of Geneva<br>
 **2022 - 2023**<br>
 Swiss Institute Milano Calling Fellowship<br>
 University of Milano-Bicocca<br>
-*Advisor: Prof. [Davide Gerosa](https://davidegerosa.com)*<br>
+*Visit to the group of Prof. [Davide Gerosa](https://davidegerosa.com)*<br>
 
 **2018 - 2020**<br>
 Master's degree in Astronomy and Astrophysics<br>
 Sapienza University<br>
-*Thesis advisor: Prof. [Michele Maggiore](https://fiteoweb.unige.ch/~maggiore/) and Prof. [Alessandro Melchiorri](https://research.uniroma1.it/researcher/418311ce942c3e1041e6d8cfa6664a6e7a76c53827741f5c00d08d22)*<br>
+*Master's thesis advisors: Prof. [Michele Maggiore](https://fiteoweb.unige.ch/~maggiore/) and Prof. [Alessandro Melchiorri](https://research.uniroma1.it/researcher/418311ce942c3e1041e6d8cfa6664a6e7a76c53827741f5c00d08d22)*<br>
 Final degree grade: 110/110 with distinction (“cum laude”)<br>
 
 **2020**<br>
 Excellence Programme<br>
 Sapienza University<br>
-*Advisor: Prof. [Fabio Riccioni](https://www.roma1.infn.it/~riccionf/)*<br>
+*Project advisor: Prof. [Fabio Riccioni](https://www.roma1.infn.it/~riccionf/)*<br>
 
 **2015 - 2018**<br>
 Bachelor's Degree in Physics<br>
 Sapienza University<br>
-*Thesis advisor: Prof. [Paolo de Bernardis](https://oberon.roma1.infn.it/pdb/)*<br>
+*Bachelor's advisor: Prof. [Paolo de Bernardis](https://oberon.roma1.infn.it/pdb/)*<br>
 Final degree grade: 110/110 with distinction (“cum laude”)<br>
 
 
