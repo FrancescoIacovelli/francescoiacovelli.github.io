@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 classes: wide
 ---
-# Francesco Iacovelli
+
 Ph.D. student, gravitational waves and cosmology focused, actively involved in third-generation gravitational-wave detectors, Sunday hiker if time allows. 
 
 ## Professional
