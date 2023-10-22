@@ -1,0 +1,51 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+.archive__item-title a {
+  text-decoration: none;
+}
+.archive__item-title a:hover {
+  text-decoration: underline;
+//  color: #008CBA;
+}
+.archive__item:hover {
+	transform: scale(1.05);
+	box-shadow: 0px 0px 10px 8px mix(#000, $background-color, 10%);
+}
+
+.talk_date {
+  font-size: .7em;
+}
+
+.talk_venue {
+  font-size: .7em;
+}
+
+.small_grey {
+  font-size: .75em;
+}
+
+.cv_font {
+  font-size: .65em;
+}
+
+.greedy-nav__toggle {
+	background-color: #008CBA;
+}
+.greedy-nav .visible-links a:before {
+	background-color: #008CBA;
+}
+
+.author__avatar img {
+	padding: 0px;
+	border: 6px solid #008CBA;
+	box-shadow: 1px 0px 5px 2px mix(#000, $background-color, 10%);
+}
+
+
