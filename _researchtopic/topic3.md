@@ -14,4 +14,4 @@ From the combination of the two observables, we can better constrain e.g. the NS
 
 I have worked on the prospects of using joint &gamma;-ray burst (GRB) polarimetry and GW measurements to obtain constraints on the GRB emission model [[6]({{ site.baseurl }}{% link _publications/publication6.md %})].
 
-More recently, I have been working with a group of leading experts to forecast the prospects of observing EM counterparts (GRB prompt and afterglow and kilonova) from neutron star-black hole coalescences during the ongoing fourth observing run of LIGO/Virgo/KAGRA and the planned fifth run. We then plan to extend the analysis towards 3G detectors!
+More recently, I have been working with a group of leading experts to forecast the prospects of observing EM counterparts (GRB prompt and afterglow and kilonova) from neutron star-black hole coalescences during the ongoing fourth observing run of LIGO/Virgo/KAGRA and the planned fifth run [[11]({{ site.baseurl }}{% link _publications/publication11.md %})]. We then plan to extend the analysis towards 3G detectors!

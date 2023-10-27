@@ -1,3 +1,19 @@
+<script type="text/javascript">
+<!--
+var arxiv_authorid = "iacovelli_f_1";
+var arxiv_format = "pretty";
+var arxiv_max_entries = "5";
+var arxiv_includeComments = "0";
+var arxiv_bg_color = "$background-color";
+var arxiv_border_color = "008CBA";
+var arxiv_entry_color = "$background-color";
+//--></script>
+<style type="text/css">
+div.arxivfeed {margin-bottom: 5px; width:700px;}
+</style>
+<script type="text/javascript" src="../assets/js/myarticles.js">
+</script>
+
 {% if page.author_profile or layout.author_profile or page.sidebar %}
   <div class="sidebar sticky">
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
@@ -19,5 +35,6 @@
       {% include nav_list nav=page.sidebar.nav %}
     {% endif %}
   {% endif %}
+  <div id="arxivfeed"></div>
   </div>
 {% endif %}
