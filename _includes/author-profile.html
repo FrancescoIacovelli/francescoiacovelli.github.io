@@ -40,7 +40,7 @@
   </div>
 
   <div class="author__urls-wrapper">
-    <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Follow" }}</button>
+    <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Info" }}</button>
     <ul class="author__urls social-icons">
 
       {% if author.employer %}
@@ -285,6 +285,7 @@
       {% endif %}
 
       {% include author-profile-custom-links.html %}
+      <div id="arxivfeed"></div>	
     </ul>
   </div>
 </div>

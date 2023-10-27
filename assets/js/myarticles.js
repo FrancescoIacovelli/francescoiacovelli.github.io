@@ -233,11 +233,12 @@ function makePrettyarXiv(feed)
 	//html += '<div id="feedtitle" style="font-size:10px; padding-top:5px; padding-bottom:5px; text-align:center;">Powered by the arXiv.org <a href="https://arxiv.org/help/myarticles">myarticles</a> widget</div>';
 	html += '<div id="feedtitle" style="text-align:center; font-size:9px">';
 	if (extra_entries) {
-	    html +='<br /><span style="font-size:80%">[ Showing '+num_entries+' of '+feed.entries.length+' total entries, additional entries available at <a href="https://arxiv.org/a/'+arxiv_authorid+'">'+'arXiv.org'+'</a> ]</span>\n';
+	    //html +='<br /><span style="font-size:80%">[ Showing '+num_entries+' of '+feed.entries.length+' total entries, additional entries available at <a href="https://arxiv.org/a/'+arxiv_authorid+'">'+'arXiv.org'+'</a> ]</span>\n';
+        html +='<br /><span style="font-size:80%">[ Showing '+num_entries+' of '+feed.entries.length+' total entries ]</span>\n';
    } else {
 	    html +='<br /><span style="font-size:80%">[ Showing '+num_entries+' of '+feed.entries.length+' total entries ]</span>\n';
    }
-	html += '<a href="https://arxiv.org/help/myarticles">myarticles</a> is powered by <a href="https://arxiv.org/a/'+arxiv_authorid + '">arXiv author id</a> data';
+    //html += '<a href="https://arxiv.org/help/myarticles">myarticles</a> is powered by <a href="https://arxiv.org/a/'+arxiv_authorid + '">arXiv author id</a> data';
 	html +='</div>';
 	//End the container div
 	html += "</div>"
