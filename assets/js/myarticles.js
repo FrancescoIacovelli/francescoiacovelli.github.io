@@ -219,7 +219,7 @@ function makePrettyarXiv(feed)
 		//First add the title-link element as a entrytitle div
 		html += '<div class="entry" style="padding-left:6px;width:244px;background-color:#'+arxiv_entry_color+'">';
 		//Title and authors
-		html += '<div class="entrytitle"><a style="color:#008CBA;" href="' + feed.entries[x].id + '" target="_blank">' + feed.entries[x].title + '</a></div>';
+		html += '<div class="entrytitle"><a style="color:#008CBA;" href="' + feed.entries[x].id + '" target="_blank" rel="noopener">' + feed.entries[x].title + '</a></div>';
 		html += '<div class="entryauthors" style="margin-left:0.6em">' + feed.entries[x].authors+ '</div>';
 		//add summary only if desired
 		if (arxiv_includeSummary == 1)
@@ -234,12 +234,12 @@ function makePrettyarXiv(feed)
 	html += '<div id="feedtitle" style="text-align:center; font-size:9px">';
 	if (extra_entries) {
 	    //html +='<br /><span style="font-size:80%">[ Showing '+num_entries+' of '+feed.entries.length+' total entries, additional entries available at <a style="color:#008CBA; margin-bottom:0; padding-right:0; padding-top:0; padding-bottom:0;" href="https://arxiv.org/a/'+arxiv_authorid+'">'+'arXiv.org'+'</a> ]</span>\n';
-        html +='<br /><span style="font-size:80%"><a style="color:#008CBA;" href="https://arxiv.org/a/'+arxiv_authorid+'" target="_blank">[ Showing '+num_entries+' of '+feed.entries.length+' total entries ]</a></span>';
+        html +='<br /><span style="font-size:80%"><a style="color:#008CBA;" href="https://arxiv.org/a/'+arxiv_authorid+'" target="_blank" rel="noopener">[ Showing '+num_entries+' of '+feed.entries.length+' total entries ]</a></span>';
    } else {
 	    html +='<br /><span style="font-size:80%">[ Showing '+num_entries+' of '+feed.entries.length+' total entries ]</span>';
    }
     //html += '<a href="https://arxiv.org/help/myarticles">myarticles</a> is powered by <a href="https://arxiv.org/a/'+arxiv_authorid + '">arXiv author id</a> data';
-    html += '<span style="font-size:80%"><a href="https://arxiv.org/help/myarticles" target="_blank">myarticles is powered by arXiv author id data</a></span>';
+    html += '<span style="font-size:80%"><a href="https://arxiv.org/help/myarticles" target="_blank" rel="noopener">myarticles is powered by arXiv author id data</a></span>';
 	html +='</div>';
 	//End the container div
 	html += "</div>"

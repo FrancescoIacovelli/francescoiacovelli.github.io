@@ -26,7 +26,7 @@ if (recid === "undefined") {
 	document.getElementById("inspirecount").innerHTML='';
 } else {
 	$.getJSON(recurl, function(data){
-    	var html =`<a href="https://inspirehep.net/literature/${recid}" target="_blank"><button type="button inspire" class="btn btn-inspire">iNSPIRE </button></a><span class="badge inspcitations">${data.hits.hits[0].metadata.citation_count} citations</span>`    
+    	var html =`<a href="https://inspirehep.net/literature/${recid}" target="_blank" rel="noopener"><button type="button inspire" class="btn btn-inspire">iNSPIRE </button></a><span class="badge inspcitations">${data.hits.hits[0].metadata.citation_count} citations</span>`    
     	document.getElementById("inspirecount").innerHTML= html
   });
 }
@@ -46,6 +46,6 @@ H<sub>0</sub>. A LIGO/Virgo/Kagra network at target sensitivity might already ge
 
 ### Links
 
-<i class="ai ai-arxiv ai-fw"></i> arXiv: <a href="https://arxiv.org/abs/2107.05046" target="_blank">2107.05046 [gr-qc]</a>
+<i class="ai ai-arxiv ai-fw"></i> arXiv: <a href="https://arxiv.org/abs/2107.05046" target="_blank" rel="noopener">2107.05046 [gr-qc]</a>
 
-<i class="ai ai-doi ai-fw"></i> Publisher DOI: <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.084057" target="_blank">10.1103/PhysRevD.104.084057</a>
+<i class="ai ai-doi ai-fw"></i> Publisher DOI: <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.084057" target="_blank" rel="noopener">10.1103/PhysRevD.104.084057</a>

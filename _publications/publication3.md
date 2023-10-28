@@ -26,7 +26,7 @@ if (recid === "undefined") {
 	document.getElementById("inspirecount").innerHTML='';
 } else {
 	$.getJSON(recurl, function(data){
-    	var html =`<a href="https://inspirehep.net/literature/${recid}" target="_blank"><button type="button inspire" class="btn btn-inspire">iNSPIRE </button></a><span class="badge inspcitations">${data.hits.hits[0].metadata.citation_count} citations</span>`    
+    	var html =`<a href="https://inspirehep.net/literature/${recid}" target="_blank" rel="noopener"><button type="button inspire" class="btn btn-inspire">iNSPIRE </button></a><span class="badge inspcitations">${data.hits.hits[0].metadata.citation_count} citations</span>`    
     	document.getElementById("inspirecount").innerHTML= html
   });
 }
@@ -45,6 +45,6 @@ Modified gravitational wave (GW) propagation is a generic phenomenon in modified
 
 ### Links
 
-<i class="ai ai-arxiv ai-fw"></i> arXiv: <a href="https://arxiv.org/abs/2108.04065" target="_blank">2108.04065 [gr-qc]</a>
+<i class="ai ai-arxiv ai-fw"></i> arXiv: <a href="https://arxiv.org/abs/2108.04065" target="_blank" rel="noopener">2108.04065 [gr-qc]</a>
 
-<i class="ai ai-doi ai-fw"></i> Publisher DOI: <a href="https://doi.org/10.1016/j.dark.2022.100994" target="_blank">10.1016/j.dark.2022.100994</a>
+<i class="ai ai-doi ai-fw"></i> Publisher DOI: <a href="https://doi.org/10.1016/j.dark.2022.100994" target="_blank" rel="noopener">10.1016/j.dark.2022.100994</a>

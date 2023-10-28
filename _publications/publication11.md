@@ -27,7 +27,7 @@ if (recid === "undefined") {
 		if (data.hits.hits[0].metadata.citation_count === 0){
 			var html = '';
 		} else {
-    	var html =`<a href="https://inspirehep.net/literature/${recid}" target="_blank"><button type="button inspire" class="btn btn-inspire">iNSPIRE </button></a><span class="badge inspcitations">${data.hits.hits[0].metadata.citation_count} citations</span>`  
+    	var html =`<a href="https://inspirehep.net/literature/${recid}" target="_blank" rel="noopener"><button type="button inspire" class="btn btn-inspire">iNSPIRE </button></a><span class="badge inspcitations">${data.hits.hits[0].metadata.citation_count} citations</span>`  
     	}  
     	document.getElementById("inspirecount").innerHTML= html
   });
@@ -49,5 +49,5 @@ GRB afterglow light curves in the radio, optical and X-ray bands. The resulting 
 
 ### Links
 
-<i class="ai ai-arxiv ai-fw"></i> arXiv: <a href="https://arxiv.org/abs/2310.16894" target="_blank">2310.16894 [astro-ph.HE]</a>
+<i class="ai ai-arxiv ai-fw"></i> arXiv: <a href="https://arxiv.org/abs/2310.16894" target="_blank" rel="noopener">2310.16894 [astro-ph.HE]</a>
 

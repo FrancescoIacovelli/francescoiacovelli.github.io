@@ -29,7 +29,7 @@ if (recid === "undefined") {
 		if (data.hits.hits[0].metadata.citation_count === 0){
 			var html = '';
 		} else {
-    	var html =`<a href="https://inspirehep.net/literature/${recid}" target="_blank"><button type="button inspire" class="btn btn-inspire">iNSPIRE </button></a><span class="badge inspcitations">${data.hits.hits[0].metadata.citation_count} citations</span>`  
+    	var html =`<a href="https://inspirehep.net/literature/${recid}" target="_blank" rel="noopener"><button type="button inspire" class="btn btn-inspire">iNSPIRE </button></a><span class="badge inspcitations">${data.hits.hits[0].metadata.citation_count} citations</span>`  
     	}  
     	document.getElementById("inspirecount").innerHTML= html
   });
@@ -50,6 +50,6 @@ The detection of black-hole binaries at high redshifts is a cornerstone of the s
 ### Links
 
 
-<i class="ai ai-arxiv ai-fw"></i> arXiv: <a href="https://arxiv.org/abs/2303.16323" target="_blank">2303.16323 [gr-qc]</a>
+<i class="ai ai-arxiv ai-fw"></i> arXiv: <a href="https://arxiv.org/abs/2303.16323" target="_blank" rel="noopener">2303.16323 [gr-qc]</a>
 
-<i class="ai ai-doi ai-fw"></i> Publisher DOI: <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.L101302" target="_blank">10.1103/PhysRevD.107.L101302</a>
+<i class="ai ai-doi ai-fw"></i> Publisher DOI: <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.L101302" target="_blank" rel="noopener">10.1103/PhysRevD.107.L101302</a>

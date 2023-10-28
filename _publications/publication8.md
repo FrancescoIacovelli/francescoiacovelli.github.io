@@ -29,7 +29,7 @@ if (recid === "undefined") {
 		if (data.hits.hits[0].metadata.citation_count === 0){
 			var html = '';
 		} else {
-    	var html =`<a href="https://inspirehep.net/literature/${recid}" target="_blank"><button type="button inspire" class="btn btn-inspire">iNSPIRE </button></a><span class="badge inspcitations">${data.hits.hits[0].metadata.citation_count} citations</span>`  
+    	var html =`<a href="https://inspirehep.net/literature/${recid}" target="_blank" rel="noopener"><button type="button inspire" class="btn btn-inspire">iNSPIRE </button></a><span class="badge inspcitations">${data.hits.hits[0].metadata.citation_count} citations</span>`  
     	}  
     	document.getElementById("inspirecount").innerHTML= html
   });
@@ -50,6 +50,6 @@ The Einstein Telescope (ET), the European project for a third-generation gravita
 
 ### Links
 
-<i class="ai ai-arxiv ai-fw"></i> arXiv: <a href="https://arxiv.org/abs/2303.15923" target="_blank">2303.15923 [gr-qc]</a>
+<i class="ai ai-arxiv ai-fw"></i> arXiv: <a href="https://arxiv.org/abs/2303.15923" target="_blank" rel="noopener">2303.15923 [gr-qc]</a>
 
-<i class="ai ai-doi ai-fw"></i> Publisher DOI: <a href="https://doi.org/10.1088/1475-7516/2023/07/068" target="_blank">10.1088/1475-7516/2023/07/068</a>
+<i class="ai ai-doi ai-fw"></i> Publisher DOI: <a href="https://doi.org/10.1088/1475-7516/2023/07/068" target="_blank" rel="noopener">10.1088/1475-7516/2023/07/068</a>

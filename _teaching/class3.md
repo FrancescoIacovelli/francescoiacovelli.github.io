@@ -10,4 +10,4 @@ semester: "Fall 2023"
 
 The mathematical tools necessary for the Physics courses of the first year. 
 
-<i class="ai ai-moodle ai-fw"></i> Moodle page of the course available <a href="https://moodle.unige.ch/enrol/index.php?id=4951" target="_blank"> here</a>
+<i class="ai ai-moodle ai-fw"></i> Moodle page of the course available <a href="https://moodle.unige.ch/enrol/index.php?id=4951" target="_blank" rel="noopener"> here</a>
