@@ -9,4 +9,4 @@ location: "CERN"
 
 I presented a forecast for the capabilities of the Einstein Telescope to measure key quantities characterizing PHB mergers and observe a population of these objects
 
-Based on [Phys. Rev. D 108, 043506 (2023)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.043506)
+Based on <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.043506" target="_blank">Phys. Rev. D 108, 043506 (2023)</a>

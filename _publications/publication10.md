@@ -9,6 +9,33 @@ authorlist: "**F. Iacovelli**, M. Mancarella, C. Mondal, A. Puecher, T. Dietrich
 classes: wide
 ---
 
+<html>
+<head>
+   <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+</head>
+<body>
+
+<div id="inspirecount"></div>
+<script>
+var recid = '2690602';
+var recurl = 'https://inspirehep.net/api/literature/?q=recid%3A'+recid+'&size=10&page=1&fields=citation_count&format=json';
+
+if (recid === "undefined") {
+	document.getElementById("inspirecount").innerHTML='';
+} else {
+	$.getJSON(recurl, function(data){
+		if (data.hits.hits[0].metadata.citation_count === 0){
+			var html = '';
+		} else {
+    	var html =`<a href="https://inspirehep.net/literature/${recid}" target="_blank"><button type="button inspire" class="btn btn-inspire">iNSPIRE </button></a><span class="badge inspcitations">${data.hits.hits[0].metadata.citation_count} citations</span>`  
+    	}  
+    	document.getElementById("inspirecount").innerHTML= html
+  });
+}
+</script>
+</body>
+</html>
+
 ### Summary
 We examine how different NS EoS can change the detection prospects of BNS mergers at ET and forecast the capability to reconstruct the underlying EoS from this kind of observations. To this end, we employ a meta-modeling approach within a Bayesian framework and find that with ≳ 500 detections it could be possible to pin down precisely the NS matter EoS.
 
@@ -17,4 +44,4 @@ The next generation of ground-based gravitational-wave detectors, Einstein Teles
 
 ### Links
 
-<i class="ai ai-arxiv ai-fw"></i> arXiv: [2308.12378 [gr-qc]](https://arxiv.org/abs/2308.12378)
+<i class="ai ai-arxiv ai-fw"></i> arXiv: <a href="https://arxiv.org/abs/2308.12378" target="_blank">2308.12378 [gr-qc]</a>

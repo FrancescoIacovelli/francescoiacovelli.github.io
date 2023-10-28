@@ -49,7 +49,7 @@ Clicking the buttons below you can download a PDF version of my CV with and with
 
 ## Metrics
 
-### **Publication list:** [<i class="ai ai-inspire ai-fw"></i> iNSPIRE](https://inspirehep.net/authors/1844718), [<i class="ai ai-ads-square ai-fw"></i> NASA/ADS](https://ui.adsabs.harvard.edu/search/q=%20author%3A%22Iacovelli%2C%20Francesco%22&sort=date%20desc%2C%20bibcode%20desc&p_=0), [<i class="ai ai-google-scholar-square ai-fw"></i> Scholar](https://scholar.google.com/citations?hl=it&user=aTpQvZAAAAAJ),[<i class="ai ai-arxiv ai-fw"></i> arXiv](https://arxiv.org/a/0000-0002-4875-5862.html)
+### **Publication list:** <a href="https://inspirehep.net/authors/1844718" target="_blank"><i class="ai ai-inspire ai-fw"></i> iNSPIRE</a>, <a href="https://ui.adsabs.harvard.edu/search/q=%20author%3A%22Iacovelli%2C%20Francesco%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank"><i class="ai ai-ads-square ai-fw"></i> NASA/ADS</a>, <a href="https://scholar.google.com/citations?hl=it&user=aTpQvZAAAAAJ" target="_blank"><i class="ai ai-google-scholar-square ai-fw"></i> Scholar</a>, <a href="https://arxiv.org/a/iacovelli_f_1.html" target="_blank"><i class="ai ai-arxiv ai-fw"></i> arXiv</a>
 
 ### **List of** [**talks**]({{ site.baseurl }}{% link _pages/talks.md %})
 
@@ -58,28 +58,28 @@ Clicking the buttons below you can download a PDF version of my CV with and with
 **2020 - in progress**<br>
 Ph.D. in Theoretical Physics<br>
 University of Geneva<br>
-*Advisor: Prof. [Michele Maggiore](https://fiteoweb.unige.ch/~maggiore/)*<br>
+*Advisor: Prof. <a href="https://fiteoweb.unige.ch/~maggiore/" target="_blank">Michele Maggiore</a>*<br>
 
 **2022 - 2023**<br>
 Swiss Institute Milano Calling Fellowship<br>
 University of Milano-Bicocca<br>
-*Visit to the group of Prof. [Davide Gerosa](https://davidegerosa.com)*<br>
+*Visit to the group of Prof. <a href="https://davidegerosa.com" target="_blank">Davide Gerosa</a>*<br>
 
 **2018 - 2020**<br>
 Master's degree in Astronomy and Astrophysics<br>
 Sapienza University<br>
-*Master's thesis advisors: Prof. [Michele Maggiore](https://fiteoweb.unige.ch/~maggiore/) and Prof. [Alessandro Melchiorri](https://research.uniroma1.it/researcher/418311ce942c3e1041e6d8cfa6664a6e7a76c53827741f5c00d08d22)*<br>
+*Master's thesis advisors: Prof. <a href="https://fiteoweb.unige.ch/~maggiore/" target="_blank">Michele Maggiore</a> and Prof. <a href="https://research.uniroma1.it/researcher/418311ce942c3e1041e6d8cfa6664a6e7a76c53827741f5c00d08d22" target="_blank">Alessandro Melchiorri</a>*<br>
 Final degree grade: 110/110 with distinction (“cum laude”)<br>
 
 **2020**<br>
 Excellence Programme<br>
 Sapienza University<br>
-*Project advisor: Prof. [Fabio Riccioni](https://www.roma1.infn.it/~riccionf/)*<br>
+*Project advisor: Prof. <a href="https://www.roma1.infn.it/~riccionf/" target="_blank">Fabio Riccioni</a>*<br>
 
 **2015 - 2018**<br>
 Bachelor's Degree in Physics<br>
 Sapienza University<br>
-*Bachelor's advisor: Prof. [Paolo de Bernardis](https://oberon.roma1.infn.it/pdb/)*<br>
+*Bachelor's advisor: Prof. <a href="https://oberon.roma1.infn.it/pdb/" target="_blank">Paolo de Bernardis</a>*<br>
 Final degree grade: 110/110 with distinction (“cum laude”)<br>
 
 

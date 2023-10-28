@@ -9,6 +9,35 @@ authorlist: "M. Kole, **F. Iacovelli**, M. Mancarella, N. Produit"
 classes: wide
 ---
 
+<span class="__dimensions_badge_embed__" data-doi="10.1051/0004-6361/202245205" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+<html>
+<head>
+   <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+</head>
+<body>
+
+<div id="inspirecount"></div>
+<script>
+var recid = '2513841';
+var recurl = 'https://inspirehep.net/api/literature/?q=recid%3A'+recid+'&size=10&page=1&fields=citation_count&format=json';
+
+if (recid === "undefined") {
+	document.getElementById("inspirecount").innerHTML='';
+} else {
+	$.getJSON(recurl, function(data){
+		if (data.hits.hits[0].metadata.citation_count === 0){
+			var html = '';
+		} else {
+    	var html =`<a href="https://inspirehep.net/literature/${recid}" target="_blank"><button type="button inspire" class="btn btn-inspire">iNSPIRE </button></a><span class="badge inspcitations">${data.hits.hits[0].metadata.citation_count} citations</span>`  
+    	}  
+    	document.getElementById("inspirecount").innerHTML= html
+  });
+}
+</script>
+</body>
+</html>
+
 ### Summary
 We review how different &gamma;-ray burst emission models predict different polarization angles of the jet, and study how GRB polarimetry measurements can be complemented by GW observations both at 2G and 3G detectors in order to obtain information on the GRB mechanism. We find that, although unlikely in the near future,  already a single joint detection could allow us to rule out most of the emission models.
 
@@ -20,6 +49,7 @@ The last decade has seen the emergence of two new fields within astrophysics: ga
 
 ### Links
 
-<i class="ai ai-arxiv ai-fw"></i> arXiv: [2211.12403 [astro-ph.HE]](https://arxiv.org/abs/2211.12403)
 
-<i class="ai ai-doi ai-fw"></i> Publisher DOI: [10.1051/0004-6361/202245205](https://doi.org/10.1051/0004-6361/202245205)
+<i class="ai ai-arxiv ai-fw"></i> arXiv: <a href="https://arxiv.org/abs/2211.12403" target="_blank">2211.12403 [astro-ph.HE]</a>
+
+<i class="ai ai-doi ai-fw"></i> Publisher DOI: <a href="https://doi.org/10.1051/0004-6361/202245205" target="_blank">10.1051/0004-6361/202245205</a>

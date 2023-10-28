@@ -6,9 +6,9 @@ excerpt: "ET will be an outstanding precision and discovery machine for GW scien
 ---
 
 ## Overview
-[Einstein Telescope](https://www.et-gw.eu) (ET) is the proposed European third-generation ground-based gravitational wave detector. Thanks to an improvement by more than one order of magnitude in sensitivity as compared to current detectors and a broader frequency range, ET has the potential to trigger revolutions in Astrophysics, Fundamental Physics, and Cosmology (*it is amazing, isn't it?*).
+<a href="https://www.et-gw.eu" target="_blank">Einstein Telescope</a> (ET) is the proposed European third-generation ground-based gravitational wave detector. Thanks to an improvement by more than one order of magnitude in sensitivity as compared to current detectors and a broader frequency range, ET has the potential to trigger revolutions in Astrophysics, Fundamental Physics, and Cosmology (*it is amazing, isn't it?*).
 
-Thanks to the knowledge we acquired on the population of merging compact objects from LIGO/Virgo/KAGRA, it is now possible to produce sensible forecasts of the ET capabilities (*obviously without forgetting about [Cosmic Explorer](https://cosmicexplorer.org) (CE) on the other side of the Atlantic!*), exploring in greater detail its vast science case and further strengthening it. 
+Thanks to the knowledge we acquired on the population of merging compact objects from LIGO/Virgo/KAGRA, it is now possible to produce sensible forecasts of the ET capabilities (*obviously without forgetting about <a href="https://cosmicexplorer.org" target="_blank">Cosmic Explorer</a> (CE) on the other side of the Atlantic!*), exploring in greater detail its vast science case and further strengthening it. 
 
 ## How do I contribute?
 

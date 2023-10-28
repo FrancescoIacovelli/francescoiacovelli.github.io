@@ -9,6 +9,33 @@ authorlist: "A. Colombo, R. Duqué, O. S. Salafia, F. S. Broekgaarden, **F. Iac
 classes: wide
 ---
 
+<html>
+<head>
+   <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+</head>
+<body>
+
+<div id="inspirecount"></div>
+<script>
+var recid = '2714734';
+var recurl = 'https://inspirehep.net/api/literature/?q=recid%3A'+recid+'&size=10&page=1&fields=citation_count&format=json';
+
+if (recid === "undefined") {
+	document.getElementById("inspirecount").innerHTML='';
+} else {
+	$.getJSON(recurl, function(data){
+		if (data.hits.hits[0].metadata.citation_count === 0){
+			var html = '';
+		} else {
+    	var html =`<a href="https://inspirehep.net/literature/${recid}" target="_blank"><button type="button inspire" class="btn btn-inspire">iNSPIRE </button></a><span class="badge inspcitations">${data.hits.hits[0].metadata.citation_count} citations</span>`  
+    	}  
+    	document.getElementById("inspirecount").innerHTML= html
+  });
+}
+</script>
+</body>
+</html>
+
 ### Summary
 We investigate the prospects of observing electromagnetic counterparts (&gamma;-ray burst prompt and afterglow and kilonova) to black hole-neutron star mergers observed through gravitational waves during the O4 and O5 runs of LIGO/Virgo/KAGRA. Results for O4 are
 not promising, with joint multimessenger rates of &sim;10<sup>−1</sup> yr<sup>−1</sup> for kilonova and &sim;10<sup>−2</sup> yr<sup>−1</sup> for jets, while for O5 we find an increase by around an order of magnitude.
@@ -22,4 +49,5 @@ GRB afterglow light curves in the radio, optical and X-ray bands. The resulting 
 
 ### Links
 
-<i class="ai ai-arxiv ai-fw"></i> arXiv: [2310.16894 [astro-ph.HE]](https://arxiv.org/abs/2310.16894)
+<i class="ai ai-arxiv ai-fw"></i> arXiv: <a href="https://arxiv.org/abs/2310.16894" target="_blank">2310.16894 [astro-ph.HE]</a>
+

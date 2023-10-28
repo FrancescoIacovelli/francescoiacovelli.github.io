@@ -9,4 +9,4 @@ location: "Cagliari (IT)"
 
 I showed recent results showing how different ET configurations perform in the estimation of neutron star properties and EoS
 
-Based on [JCAP07(2023)068](https://doi.org/10.1088/1475-7516/2023/07/068) and [arXiv:2308.12378](https://arxiv.org/abs/2308.12378)
+Based on <a href="https://doi.org/10.1088/1475-7516/2023/07/068" target="_blank">JCAP07(2023)068</a> and <a href="https://arxiv.org/abs/2308.12378" target="_blank">arXiv:2308.12378</a>

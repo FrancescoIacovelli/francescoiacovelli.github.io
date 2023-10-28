@@ -6,7 +6,7 @@ excerpt: "Gravitational waves are already an amazing observable... combining the
 ---
 
 ## Overview
-Gravitational wave (GW) signals emitted by the coalescence of two objects, if there is at least a neutron star (NS), can trigger a burst of electromagnetic (EM) radiation accompanying the GW. This was the case for the joint observation [GW170817-GRB170817A](https://iopscience.iop.org/article/10.3847/2041-8213/aa920c), which started the era of multimessenger astrophysics. 
+Gravitational wave (GW) signals emitted by the coalescence of two objects, if there is at least a neutron star (NS), can trigger a burst of electromagnetic (EM) radiation accompanying the GW. This was the case for the joint observation <a href="https://iopscience.iop.org/article/10.3847/2041-8213/aa920c" target="_blank">GW170817-GRB170817A</a>, which started the era of multimessenger astrophysics. 
 
 From the combination of the two observables, we can better constrain e.g. the NS structure, the physical processes giving rise to the observed electromagnetic emission, or the expansion history of the Universe.
 

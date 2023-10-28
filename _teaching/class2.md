@@ -10,4 +10,4 @@ semester: "Fall 2021"
 
 The classical theory of Thermodynamics.
 
-<i class="ai ai-moodle ai-fw"></i> Moodle page of the course available [here](https://moodle.unige.ch/enrol/index.php?id=4968)
+<i class="ai ai-moodle ai-fw"></i> Moodle page of the course available <a href="https://moodle.unige.ch/enrol/index.php?id=4968" target="_blank"> here</a>

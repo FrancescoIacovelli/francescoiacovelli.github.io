@@ -9,6 +9,35 @@ authorlist: "G. Franciolini, **F. Iacovelli**, M. Mancarella, M. Maggiore, P. Pa
 classes: wide
 ---
 
+<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevD.108.043506" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+<html>
+<head>
+   <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+</head>
+<body>
+
+<div id="inspirecount"></div>
+<script>
+var recid = '2649624';
+var recurl = 'https://inspirehep.net/api/literature/?q=recid%3A'+recid+'&size=10&page=1&fields=citation_count&format=json';
+
+if (recid === "undefined") {
+	document.getElementById("inspirecount").innerHTML='';
+} else {
+	$.getJSON(recurl, function(data){
+		if (data.hits.hits[0].metadata.citation_count === 0){
+			var html = '';
+		} else {
+    	var html =`<a href="https://inspirehep.net/literature/${recid}" target="_blank"><button type="button inspire" class="btn btn-inspire">iNSPIRE </button></a><span class="badge inspcitations">${data.hits.hits[0].metadata.citation_count} citations</span>`  
+    	}  
+    	document.getElementById("inspirecount").innerHTML= html
+  });
+}
+</script>
+</body>
+</html>
+
 ### Summary
 We analyze in detail the impact of different designs for the Einstein Telescope on our future capability of observing key quantities characterizing primordial black hole mergers, that would allow us to disentangle them from astrophysical objects. We also perform a population analysis with an “optimistic” population. Overall we find that ET alone can reach an exquisite level of accuracy and observe up to tens of thousands of PBH binaries per year.
 
@@ -20,6 +49,7 @@ Primordial black holes (PBHs) have recently attracted much attention, as they ma
 
 ### Links
 
-<i class="ai ai-arxiv ai-fw"></i> arXiv: [2304.03160 [gr-qc]](https://arxiv.org/abs/2304.03160)
+<i class="ai ai-arxiv ai-fw"></i> arXiv: <a href="https://arxiv.org/abs/2304.03160" target="_blank">2304.03160 [gr-qc]</a>
 
-<i class="ai ai-doi ai-fw"></i> Publisher DOI: [10.1103/PhysRevD.108.043506](https://doi.org/10.1103/physrevd.108.043506)
+<i class="ai ai-doi ai-fw"></i> Publisher DOI: <a href="https://doi.org/10.1103/physrevd.108.043506" target="_blank">10.1103/PhysRevD.108.043506</a>
+

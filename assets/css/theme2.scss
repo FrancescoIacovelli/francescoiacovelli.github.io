@@ -60,3 +60,48 @@
 .fa-map-marker-alt {
 	color: #EA4335;
 }
+
+.btn-inspire {
+  padding: 0px 0px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 0px 0px;
+  cursor: pointer;
+  background-color: #041527; 
+  color: white; 
+  border: 3px solid #041527;
+  border-radius: 3px;
+  line-height: 1.2;
+  box-shadow: 0px 0px 5px 2px mix(#000, $background-color, 10%);
+}
+
+
+.inspcitations {
+	position: relative;
+	background: #ffffff;
+	border-radius: 3px;
+	font-size: 14px;
+	line-height: 1.2;
+	color: #041527; 
+	text-align: center;
+	text-decoration: none;
+	margin-left: 3px;
+	padding: 2px 2px;
+	box-shadow: 0px 0px 5px 2px mix(#000, $background-color, 20%);
+}
+
+.inspcitations:after {
+	content: '';
+	position: absolute;
+	left: 0;
+	top: 50%;
+	width: 0;
+	height: 0;
+	border: 3px solid transparent;
+	border-right-color: #ffffff;
+	border-left: 0;
+	margin-top: -3px;
+	margin-left: -3px;
+}

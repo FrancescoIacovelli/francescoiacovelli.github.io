@@ -9,6 +9,31 @@ authorlist: "A. Finke, S. Foffa, **F. Iacovelli**, M. Maggiore, and M. Mancarell
 classes: wide
 ---
 
+<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevD.104.084057" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+<html>
+<head>
+   <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+</head>
+<body>
+
+<div id="inspirecount"></div>
+<script>
+var recid = '1881732';
+var recurl = 'https://inspirehep.net/api/literature/?q=recid%3A'+recid+'&size=10&page=1&fields=citation_count&format=json';
+
+if (recid === "undefined") {
+	document.getElementById("inspirecount").innerHTML='';
+} else {
+	$.getJSON(recurl, function(data){
+    	var html =`<a href="https://inspirehep.net/literature/${recid}" target="_blank"><button type="button inspire" class="btn btn-inspire">iNSPIRE </button></a><span class="badge inspcitations">${data.hits.hits[0].metadata.citation_count} citations</span>`    
+    	document.getElementById("inspirecount").innerHTML= html
+  });
+}
+</script>
+</body>
+</html>
+
 ### Summary
 We show how quadruply lensed GW events (which already come with good localization) can be used to constrain modified GW propagation without prior knowledge of H<sub>0</sub> already at 2G detectors, with the prospects greatly improving at 3G detectors.
 
@@ -21,6 +46,6 @@ H<sub>0</sub>. A LIGO/Virgo/Kagra network at target sensitivity might already ge
 
 ### Links
 
-<i class="ai ai-arxiv ai-fw"></i> arXiv: [2107.05046 [gr-qc]](https://arxiv.org/abs/2107.05046)
+<i class="ai ai-arxiv ai-fw"></i> arXiv: <a href="https://arxiv.org/abs/2107.05046" target="_blank">2107.05046 [gr-qc]</a>
 
-<i class="ai ai-doi ai-fw"></i> Publisher DOI: [10.1103/PhysRevD.104.084057](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.084057)
+<i class="ai ai-doi ai-fw"></i> Publisher DOI: <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.084057" target="_blank">10.1103/PhysRevD.104.084057</a>

@@ -9,6 +9,31 @@ authorlist: "A. Finke, S. Foffa, **F. Iacovelli**, M. Maggiore, and M. Mancarell
 classes: wide
 ---
 
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.dark.2022.100994" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+<html>
+<head>
+   <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+</head>
+<body>
+
+<div id="inspirecount"></div>
+<script>
+var recid = '1901869';
+var recurl = 'https://inspirehep.net/api/literature/?q=recid%3A'+recid+'&size=10&page=1&fields=citation_count&format=json';
+
+if (recid === "undefined") {
+	document.getElementById("inspirecount").innerHTML='';
+} else {
+	$.getJSON(recurl, function(data){
+    	var html =`<a href="https://inspirehep.net/literature/${recid}" target="_blank"><button type="button inspire" class="btn btn-inspire">iNSPIRE </button></a><span class="badge inspcitations">${data.hits.hits[0].metadata.citation_count} citations</span>`    
+    	document.getElementById("inspirecount").innerHTML= html
+  });
+}
+</script>
+</body>
+</html>
+
 ### Summary
 We show how modified GW propagation can impact the reconstruction of the BNS mass distribution, thus giving hints of deviations from GR.
 
@@ -20,6 +45,6 @@ Modified gravitational wave (GW) propagation is a generic phenomenon in modified
 
 ### Links
 
-<i class="ai ai-arxiv ai-fw"></i> arXiv: [2108.04065 [gr-qc]](https://arxiv.org/abs/2108.04065)
+<i class="ai ai-arxiv ai-fw"></i> arXiv: <a href="https://arxiv.org/abs/2108.04065" target="_blank">2108.04065 [gr-qc]</a>
 
-<i class="ai ai-doi ai-fw"></i> Publisher DOI: [10.1016/j.dark.2022.100994](https://doi.org/10.1016/j.dark.2022.100994)
+<i class="ai ai-doi ai-fw"></i> Publisher DOI: <a href="https://doi.org/10.1016/j.dark.2022.100994" target="_blank">10.1016/j.dark.2022.100994</a>
