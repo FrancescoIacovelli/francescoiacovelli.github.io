@@ -4,6 +4,7 @@ collection: talks
 type: "Invited talk"
 venue: "XIII ET Symposium"
 date: 2023-05-10
+link: "https://indico.ego-gw.it/event/562/"
 location: "Cagliari (IT)"
 ---
 

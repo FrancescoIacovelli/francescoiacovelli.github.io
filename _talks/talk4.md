@@ -2,8 +2,9 @@
 title: "4) Modified gravitational wave propagation: information from strongly lensed binaries and the BNS mass function"
 collection: talks
 type: "Contributed talk"
-venue: "56<sup>th</sup> Rencontres de Moriond"
+venue: "56<sup>th</sup> Rencontres de Moriond, Gravitation"
 date: 2022-02-01
+link: "https://moriond.in2p3.fr/2022/Gravitation/"
 location: "La Thuile (IT)"
 ---
 

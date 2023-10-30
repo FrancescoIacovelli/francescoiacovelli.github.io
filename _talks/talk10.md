@@ -4,6 +4,7 @@ collection: talks
 type: "Contributed talk"
 venue: "Third EuCAPT Annual Symposium"
 date: 2023-06-02
+link: "https://indico.cern.ch/event/1218730/"
 location: "CERN"
 ---
 

@@ -4,7 +4,8 @@ collection: talks
 type: "Contributed talk"
 venue: "14<sup>th</sup> Edoardo Amaldi Conference on Gravitational Waves"
 date: 2021-07-19
-location: "online"
+link: "https://www.amaldi14.org"
+location: "Online"
 ---
 
 I talked about the correlation of GWs and galaxy catalogs to measure H<sub>0</sub> and the modified gravity parameter &Xi;<sub>0</sub>

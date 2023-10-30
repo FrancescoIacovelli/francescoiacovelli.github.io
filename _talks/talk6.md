@@ -4,6 +4,7 @@ collection: talks
 type: "Invited talk"
 venue: "University of Milano Bicocca"
 date: 2023-01-26
+link: "https://www.fisica.unimib.it/it/eventi/seminario-francesco-iacovelli"
 location: "Milan (IT)"
 ---
 

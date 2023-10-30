@@ -7,44 +7,13 @@ redirect_from:
   - /resume
 ---
 
-<style>
-a.uline {text-decoration:underline;}
-</style>
-<style>
-.button {
-  border: none;
-  color: white;
-  padding: 10px 20px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  transition-duration: 0.4s;
-  cursor: pointer;
-}
-
-.mybutton {
-  background-color: #008CBA; 
-  color: white; 
-  border: 2.5px solid #008CBA;
-}
-
-.mybutton:hover {
-  transform: scale(1.1);
-}
-
-.mybutton {border-radius: 8px;}
-
-</style>
-
 {% include base_path %}
 
 ## PDF version
 
 Clicking the buttons below you can download a PDF version of my CV with and without publication list 
 
-<a href="../assets/cv_pdf/cv_full.pdf" download="Iacovelli_CV_full.pdf"><button class="button mybutton">Full CV</button></a> <a href="../assets/cv_pdf/cv_short.pdf" download="Iacovelli_CV_short.pdf"><button class="button mybutton">Short CV</button></a>
+<a href="../assets/cv_pdf/cv_full.pdf" download="Iacovelli_CV_full.pdf"><button class="btn btn--custom">Full CV</button></a> <a href="../assets/cv_pdf/cv_short.pdf" download="Iacovelli_CV_short.pdf"><button class="btn btn--custom">Short CV</button></a>
 
 
 ## Metrics

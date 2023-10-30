@@ -5,6 +5,7 @@ collection: talks
 type: "Invited talk"
 venue: "4<sup>th</sup> Gravi-Gamma-Nu Workshop"
 date: 2023-10-06
+link: "https://ivgravi-gamma.my.canva.site"
 location: "L'Aquila (IT)"
 ---
 

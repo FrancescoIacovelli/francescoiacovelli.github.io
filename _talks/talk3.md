@@ -4,6 +4,7 @@ collection: talks
 type: "Contributed talk"
 venue: "XXIV SIGRAV Conference"
 date: 2021-09-09
+link: "https://agenda.infn.it/event/26213/"
 location: "Urbino (IT)"
 ---
 

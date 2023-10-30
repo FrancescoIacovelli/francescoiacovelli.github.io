@@ -4,6 +4,7 @@ collection: talks
 type: "Invited talk"
 venue: "XXV SIGRAV Conference"
 date: 2023-09-04
+link: "https://indico.sissa.it/event/96/"
 location: "Trieste (IT)"
 ---
 

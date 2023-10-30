@@ -4,6 +4,7 @@ collection: talks
 type: "Contributed talk"
 venue: "First EuCAPT Annual Symposium"
 date: 2021-05-06
+link: "https://indico.cern.ch/event/853904/"
 location: "Online"
 ---
 

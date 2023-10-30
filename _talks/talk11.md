@@ -4,6 +4,7 @@ collection: talks
 type: "Contributed talk"
 venue: "15<sup>th</sup> Edoardo Amaldi Conference on Gravitational Waves"
 date: 2023-07-20
+link: "https://amaldi15.org"
 location: "Online"
 ---
 

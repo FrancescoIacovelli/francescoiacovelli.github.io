@@ -4,6 +4,7 @@ collection: talks
 type: "Contributed talk"
 venue: "PUMA22 Conference"
 date: 2022-09-27
+link: "https://agenda.infn.it/event/18651/"
 location: "Sestri Levante (IT)"
 ---
 
