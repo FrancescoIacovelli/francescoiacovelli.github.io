@@ -7,6 +7,7 @@ date: 2023-08-3
 venue: 'Phys. Rev. D 108, 043506'
 authorlist: "G. Franciolini, **F. Iacovelli**, M. Mancarella, M. Maggiore, P. Pani and A. Riotto"
 classes: wide
+pubtype: "published"
 ---
 
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevD.108.043506" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>

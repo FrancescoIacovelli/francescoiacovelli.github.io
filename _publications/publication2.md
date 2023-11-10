@@ -7,6 +7,7 @@ date: 2021-10-14
 venue: 'Phys. Rev. D 104, 084057'
 authorlist: "A. Finke, S. Foffa, **F. Iacovelli**, M. Maggiore, and M. Mancarella"
 classes: wide
+pubtype: "published"
 ---
 
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevD.104.084057" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>

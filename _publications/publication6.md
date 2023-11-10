@@ -7,6 +7,7 @@ date: 2023-01-13
 venue: 'A&A 669, A77'
 authorlist: "M. Kole, **F. Iacovelli**, M. Mancarella, N. Produit"
 classes: wide
+pubtype: "published"
 ---
 
 <span class="__dimensions_badge_embed__" data-doi="10.1051/0004-6361/202245205" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>

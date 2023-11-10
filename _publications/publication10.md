@@ -4,9 +4,10 @@ collection: publications
 permalink: /publications/publication10
 excerpt: "We study how binary neutron star mergers observations at the Einstein Telescope can improve our understanding of their equation of state"
 date: 2023-08-22
-venue: "arXiv preprint"
+venue: "Phys. Rev. D"
 authorlist: "**F. Iacovelli**, M. Mancarella, C. Mondal, A. Puecher, T. Dietrich, F. Gulminelli, M. Maggiore, M. Oertel"
 classes: wide
+pubtype: "toAppear"
 ---
 
 <html>

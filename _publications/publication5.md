@@ -7,6 +7,7 @@ date: 2022-12-27
 venue: 'ApJ 941 208'
 authorlist: "**F. Iacovelli**, M. Mancarella, S. Foffa, M. Maggiore."
 classes: wide
+pubtype: "published"
 ---
 
 <span class="__dimensions_badge_embed__" data-doi="10.3847/1538-4357/ac9cd4" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>

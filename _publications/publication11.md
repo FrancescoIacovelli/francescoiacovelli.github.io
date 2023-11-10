@@ -4,9 +4,10 @@ collection: publications
 permalink: /publications/publication11
 excerpt: "We investigate the prospects of observing electromagnetic counterparts to black hole-neutron star mergers detected through gravitational waves during O4 and O5"
 date: 2023-10-27
-venue: "arXiv preprint"
+venue: "A&A"
 authorlist: "A. Colombo, R. Duqué, O. S. Salafia, F. S. Broekgaarden, **F. Iacovelli**, M. Mancarella, I. Andreoni, F. Gabrielli, F. Ragosta, G. Ghirlanda, T. Fragos, A. J. Levan, S. Piranomonte, A. Melandri, B. Giacomazzo and M. Colpi"
 classes: wide
+pubtype: "arXiv"
 ---
 
 <html>

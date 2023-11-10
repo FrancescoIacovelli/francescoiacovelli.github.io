@@ -7,6 +7,7 @@ date: 2023-07-28
 venue: 'JCAP07(2023)068'
 authorlist: "M. Branchesi, M. Maggiore, et al. (incl. **F. Iacovelli**)"
 classes: wide
+pubtype: "published"
 ---
 
 <span class="__dimensions_badge_embed__" data-doi="10.1088/1475-7516/2023/07/068" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>

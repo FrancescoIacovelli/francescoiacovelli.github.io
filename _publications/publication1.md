@@ -7,6 +7,7 @@ date: 2021-08-12
 venue: 'JCAP08(2021)026'
 authorlist: "A. Finke, S. Foffa, **F. Iacovelli**, M. Maggiore, and M. Mancarella"
 classes: wide
+pubtype: "published"
 ---
 <span class="__dimensions_badge_embed__" data-doi="10.1088/1475-7516/2021/08/026" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 

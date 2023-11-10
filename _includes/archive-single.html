@@ -40,7 +40,13 @@
       {% if post.venue == 'In Prep' %}
         {{post.date | default: "1900-01-01" | date: "%Y" }}, In Prep
       {% else %}
-        Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+        {% if post.pubtype == 'published' %}
+          Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+        {% elsif post.pubtype == 'toAppear' %}
+          To appear in <i>{{ post.venue }}</i>
+        {% elsif post.pubtype == 'arXiv' %}
+          <i>arXiv preprint</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}, submitted to <i>{{ post.venue }}</i>
+        {% endif %}
       {% endif %}
     </div>
 

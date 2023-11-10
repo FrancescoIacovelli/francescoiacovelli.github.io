@@ -24,47 +24,48 @@ Clicking the buttons below you can download a PDF version of my CV with and with
 
 ## My career in a nutshell
 ---
-**2020 - in progress**<br>
-Ph.D. in Theoretical Physics<br>
-University of Geneva<br>
-*Advisor: Prof. <a href="https://fiteoweb.unige.ch/~maggiore/" target="_blank" rel="noopener">Michele Maggiore</a>*<br>
+<p class="career"><b>2020 - in progress</b></p>
+> Ph.D. in Theoretical Physics<br>
+> University of Geneva<br>
+> *Advisor: Prof. <a href="https://fiteoweb.unige.ch/~maggiore/" target="_blank" rel="noopener">Michele Maggiore</a>*<br>
 
-**2022 - 2023**<br>
-Swiss Institute Milano Calling Fellowship<br>
-University of Milano-Bicocca<br>
-*Visit to the group of Prof. <a href="https://davidegerosa.com" target="_blank" rel="noopener">Davide Gerosa</a>*<br>
+<p class="career"><b>2022 - 2023</b></p>
+> Swiss Institute Milano Calling Fellowship<br>
+> University of Milano-Bicocca<br>
+> *Visit to the group of Prof. <a href="https://davidegerosa.com" target="_blank" rel="noopener">Davide Gerosa</a>*<br>
 
-**2018 - 2020**<br>
-Master's degree in Astronomy and Astrophysics<br>
-Sapienza University<br>
-*Master's thesis advisors: Prof. <a href="https://fiteoweb.unige.ch/~maggiore/" target="_blank" rel="noopener">Michele Maggiore</a> and Prof. <a href="https://research.uniroma1.it/researcher/418311ce942c3e1041e6d8cfa6664a6e7a76c53827741f5c00d08d22" target="_blank" rel="noopener">Alessandro Melchiorri</a>*<br>
-Final degree grade: 110/110 with distinction (“cum laude”)<br>
+<p class="career"><b>2018 - 2020</b></p>
+> Master's degree in Astronomy and Astrophysics<br>
+> Sapienza University<br>
+> *Master's thesis advisors: Prof. <a href="https://fiteoweb.unige.ch/~maggiore/" target="_blank" rel="noopener">Michele Maggiore</a> and Prof. <a href="https://research.uniroma1.it/researcher/418311ce942c3e1041e6d8cfa6664a6e7a76c53827741f5c00d08d22" target="_blank" rel="noopener">Alessandro Melchiorri</a>*<br>
+> Final degree grade: 110/110 with distinction (“cum laude”)<br>
 
-**2020**<br>
-Excellence Programme<br>
-Sapienza University<br>
-*Project advisor: Prof. <a href="https://www.roma1.infn.it/~riccionf/" target="_blank" rel="noopener">Fabio Riccioni</a>*<br>
+<p class="career"><b>2020</b></p>
+> Excellence Programme<br>
+> Sapienza University<br>
+> *Project advisor: Prof. <a href="https://www.roma1.infn.it/~riccionf/" target="_blank" rel="noopener">Fabio Riccioni</a>*<br>
 
-**2015 - 2018**<br>
-Bachelor's Degree in Physics<br>
-Sapienza University<br>
-*Bachelor's advisor: Prof. <a href="https://oberon.roma1.infn.it/pdb/" target="_blank" rel="noopener">Paolo de Bernardis</a>*<br>
-Final degree grade: 110/110 with distinction (“cum laude”)<br>
+<p class="career"><b>2015 - 2018</b></p>
+> Bachelor's Degree in Physics<br>
+> Sapienza University<br>
+> *Bachelor's advisor: Prof. <a href="https://oberon.roma1.infn.it/pdb/" target="_blank" rel="noopener">Paolo de Bernardis</a>*<br>
+> Final degree grade: 110/110 with distinction (“cum laude”)<br>
 
 
 ## Teaching
 ---
-**Spring Semester 2021 - current**<br>
-Teaching assistant<br>
-*Electrodynamics II*
 
-**Fall Semester 2023**<br>
-Teaching assistant & tutor<br>
-*Mathematical methods for Physics I (Athena Program)*
+<p class="career"><b>Spring Semester 2021 - current</b></p>
+> Teaching assistant<br>
+> [*Electrodynamics II*]({{ site.baseurl }}{% link _teaching/class1.md %})
 
-**Fall Semester 2021**<br>
-Teaching assistant<br>
-*Thermodynamics*
+<p class="career"><b>Fall Semester 2023</b></p>
+> Teaching assistant & tutor<br>
+> [*Mathematical methods for Physics I (Athena Program)*]({{ site.baseurl }}{% link _teaching/class3.md %})
 
-**2022 - 2023**<br>
-Maturity exam jury member<br>
+<p class="career"><b>Fall Semester 2021</b></p>
+> Teaching assistant<br>
+> [*Thermodynamics*]({{ site.baseurl }}{% link _teaching/class2.md %})
+
+<p class="career"><b>2022 - 2023</b></p>
+> Maturity exam jury member<br>

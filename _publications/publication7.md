@@ -7,6 +7,7 @@ date: 2023-05-16
 venue: 'Phys. Rev. D 107, L101302'
 authorlist: "M. Mancarella, **F. Iacovelli**, D. Gerosa"
 classes: wide
+pubtype: "published"
 ---
 
 <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevD.107.L101302" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
