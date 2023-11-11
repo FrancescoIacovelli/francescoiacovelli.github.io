@@ -161,3 +161,16 @@ p.career {
   box-shadow: none;
   line-height: 15px;
 }
+
+.form-control {
+  border: 2px solid #008CBA;
+}
+
+input:focus, textarea:focus{
+  border-color: #008CBA;
+}
+
+.btn:hover, .btn:focus {
+  background-position: 0 0;
+  transition: none;
+}
