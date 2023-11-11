@@ -40,7 +40,6 @@ newScript.src = urlPrefix + arxiv_authorid + '.js';
 
 headID.appendChild(newScript);
 
-
 function manageDefaults()
 {
 	if (typeof arxiv_includeTitle === 'undefined') {
