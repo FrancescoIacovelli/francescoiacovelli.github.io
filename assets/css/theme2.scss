@@ -54,6 +54,10 @@
 	transform: scale(1.1);
 }
 
+.fa-envelope-square, .fa-square-envelope{
+	color: $authormail-color;
+}
+
 .ai-orcid {
    color: $orcid-color;
 }
@@ -62,8 +66,20 @@
    color: $scopus-color;
 }
 
+.ai-scopus {
+   color: $scopus-color;
+}
+
+.ai-google-scholar-square{
+	color: $googlesholar-color;
+}
+
 .fa-map-marker-alt, .fa-location-dot {
 	color: #EA4335;
+}
+
+.fa-square-rss {
+  color: #ee802f;
 }
 
 .btn-inspire {
@@ -165,6 +181,11 @@ p.career {
   border: 1px solid #008CBA;
   color: #fff;
   font-size: 11px;
+}
+
+#bibbase_header .dropdown-menu>li>a:hover {
+  background: #008CBA;
+  transition-duration: 0s;
 }
 
 .btn--inverse{
