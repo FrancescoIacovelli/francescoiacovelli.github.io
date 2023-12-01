@@ -70,10 +70,25 @@
    color: $scopus-color;
 }
 
-.ai-google-scholar-square{
+.ai-inspire {
+   color: $inspire-color;
+}
+
+.ai-ads-square {
+   color: $nasaads-color;
+}
+
+.ai-google-scholar-square {
 	color: $googlesholar-color;
 }
 
+.ai-arxiv {
+	color: $arxiv-color;
+}
+
+.fa-github {
+	color: $github-color;
+}
 .fa-map-marker-alt, .fa-location-dot {
 	color: #EA4335;
 }
@@ -90,9 +105,9 @@
   font-size: 14px;
   margin: 0px 0px;
   cursor: pointer;
-  background-color: #041527; 
+  background-color: $inspire-color; 
   color: white; 
-  border: 3px solid #041527;
+  border: 3px solid $inspire-color;
   border-radius: 3px;
   line-height: 1.2;
   box-shadow: 0px 0px 5px 2px mix(#000, $background-color, 10%);
