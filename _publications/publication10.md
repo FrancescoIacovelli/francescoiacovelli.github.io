@@ -4,10 +4,10 @@ collection: publications
 permalink: /publications/publication10
 excerpt: "We study how binary neutron star mergers observations at the Einstein Telescope can improve our understanding of their equation of state"
 date: 2023-08-22
-venue: "Phys. Rev. D"
+venue: "Phys. Rev. D 108, 122006"
 authorlist: "**F. Iacovelli**, M. Mancarella, C. Mondal, A. Puecher, T. Dietrich, F. Gulminelli, M. Maggiore, M. Oertel"
 classes: wide
-pubtype: "toAppear"
+pubtype: "published"
 ---
 
 <html>
@@ -46,3 +46,5 @@ The next generation of ground-based gravitational-wave detectors, Einstein Teles
 ### Links
 
 <i class="ai ai-arxiv ai-fw"></i> arXiv: <a href="https://arxiv.org/abs/2308.12378" target="_blank" rel="noopener">2308.12378 [gr-qc]</a>
+
+<i class="ai ai-doi ai-fw"></i> Publisher DOI: <a href="https://doi.org/10.1103/PhysRevD.108.122006" target="_blank" rel="noopener">10.1103/PhysRevD.108.122006</a>
