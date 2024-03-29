@@ -3,12 +3,14 @@ title: "Cosmology and Astrophysics with Standard Sirens and Galaxy Catalogs in V
 collection: publications
 permalink: /publications/publication12
 excerpt: "We develop a code to perform a joint population and cosmological inference on GW data and galaxy catalogs, and apply it to simulated O4 and O5 catalogs of GW"
-date: 2023-12-12
-venue: ""
+date: 2024-03-29
+venue: "ApJ 964 191"
 authorlist: "N. Borghi, M. Mancarella, M. Moresco, M. Tagliazucchi, **F. Iacovelli**, A. Cimatti, M. Maggiore"
 classes: wide
-pubtype: "arXiv"
+pubtype: "published"
 ---
+
+<span class="__dimensions_badge_embed__" data-doi="10.3847/1538-4357/ad20eb" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 <html>
 <head>
@@ -50,3 +52,4 @@ With the growing number of gravitational-wave detections and the advent of large
 
 <i class="ai ai-arxiv ai-fw"></i> arXiv: <a href="https://arxiv.org/abs/2312.05302" target="_blank" rel="noopener">2312.05302 [astro-ph.CO]</a>
 
+<i class="ai ai-doi ai-fw"></i> Publisher DOI: <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ad20eb" target="_blank" rel="noopener">10.3847/1538-4357/ad20eb</a>

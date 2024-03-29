@@ -10,6 +10,8 @@ classes: wide
 pubtype: "published"
 ---
 
+<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRevD.108.122006" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
 <html>
 <head>
    <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
