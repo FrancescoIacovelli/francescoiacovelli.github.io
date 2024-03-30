@@ -10,4 +10,4 @@ semester: "Spring 2021-2022-2023"
 
 The classical theory of Electrodynamics.
 
-<i class="ai ai-moodle ai-fw"></i> Moodle page of the course available <a href="https://moodle.unige.ch/enrol/index.php?id=3288" target="_blank" rel="noopener"> here</a>
+<i class="ai ai-moodle ai-fw"></i> Moodle page of the course available <a href="https://moodle.unige.ch/enrol/index.php?id=3288" target="_blank" rel="noopener"> here</a>.

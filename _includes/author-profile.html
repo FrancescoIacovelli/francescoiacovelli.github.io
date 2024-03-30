@@ -45,15 +45,15 @@
 
       {% if author.employer %}
         <li>
-        	<a href="https://www.unige.ch" itemprop="homeLocation" itemscope itemtype="http://schema.org/Place" target="_blank" rel="noopener noreferrer">
-          <i class="fas fa-fw fa-university" aria-hidden="true"></i> <span itemprop="name">{{ author.employer }}</span>
-         </a>
+          <a href="https://www.unige.ch" itemprop="homeLocation" itemscope itemtype="http://schema.org/Place" target="_blank" rel="noopener noreferrer">
+            <i class="fas fa-fw fa-university" aria-hidden="true"></i> <span itemprop="name">{{ author.employer }}</span>
+          </a>
         </li>
       {% endif %}
 
       {% if author.location %}
         <li>
-         <a href="https://www.google.com/maps/search/?api=1&query=Geneva%2C+CH" itemprop="homeLocation" itemscope itemtype="http://schema.org/Place" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.google.com/maps/search/?api=1&query=Geneva%2C+CH" itemprop="homeLocation" itemscope itemtype="http://schema.org/Place" target="_blank" rel="noopener noreferrer">
           <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">{{ author.location }}</span>
           </a>
         </li>

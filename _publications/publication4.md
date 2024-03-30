@@ -40,7 +40,7 @@ We release, review, and validate the *GWFAST* code, a tool to efficiently foreca
 
 ### Abstract
 We introduce *GWFAST* <a href="https://github.com/CosmoStatGW/gwfast" target="_blank" rel="noopener">(https://github.com/CosmoStatGW/gwfast)</a>, a Fisher information matrix *Python* code that allows for easy and efficient estimation of signal-to-noise ratios and parameter measurement errors for large catalogs of resolved sources observed by networks of gravitational-wave (GW) detectors. In particular, *GWFAST* includes the effects of the Earth's motion during the evolution of the signal, supports parallel computation, and relies on automatic differentiation rather than on finite differences techniques, which makes possible the computation of derivatives with accuracy close to machine precision. We also release the library *WF4Py* <a href="https://github.com/CosmoStatGW/WF4Py" target="_blank" rel="noopener">(https://github.com/CosmoStatGW/WF4Py)</a> implementing state-of-the-art GW waveforms in *Python*. In this paper we provide a documentation of *GWFAST* and *WF4Py* with practical examples and tests of performance and reliability. In the companion paper [Iacovelli et al.]({{ site.baseurl }}{% link _publications/publication5.md %}) we present forecasts for the detection capabilities of the second and third generation of ground-based GW detectors, obtained with *GWFAST*.
-<a href="https://github.com/CosmoStatGW/WF4Py" 
+<a href="https://github.com/CosmoStatGW/WF4Py". 
 
 ### Links
 
