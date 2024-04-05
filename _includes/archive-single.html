@@ -15,17 +15,17 @@
   <article class="archive__item" itemtype="http://schema.org/CreativeWork" style="border: 7px solid #008CBA; padding: 10px; margin: 10px; border-radius: 18px; transition-duration: 0.4s; cursor: pointer; background-color: #008CBA">
     <!-- Post the title -->
     {% if post.collection == 'code' %}
-     {% if post.logopath %}<img src="../assets/images/{{ post.logopath }}" alt="image-code" width="200" max-width="10%" height="auto" style="float: right; background-color:#252a34; border-radius: 8px; box-shadow: 2px 0px 5px 2px mix(#000, $background-color, 10%);"> {% endif %}
+      {% if post.logopath %}<img src="../assets/images/{{ post.logopath }}" alt="image-code" width="200" max-width="10%" height="auto" style="float: right; background-color:#252a34; border-radius: 8px; box-shadow: 2px 0px 5px 2px mix(#000, $background-color, 10%);"> {% endif %}
     {% endif %} 
     {% if post.collection == 'researchtopic' %}
     <h2 class="archive__item-title" itemprop="headline" style="margin-top: 20px; color: #fff; text-align: center;">
       <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
     </h2>
-	 {% else %}
-	 <h3 class="archive__item-title" itemprop="headline" style="margin-top: 20px; color: #fff;">
-      <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
-    </h3>
-	 {% endif %} 
+    {% else %}
+      <h3 class="archive__item-title" itemprop="headline" style="margin-top: 20px; color: #fff;">
+        <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
+      </h3>
+    {% endif %} 
     <!-- Talks -->
     {% if post.collection == 'talks' %}
       <div class="talk_date" style="color: #fff;"><i class="far fa-clock" aria-hidden="true"></i> {{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</div>
@@ -45,10 +45,10 @@
         {% elsif post.pubtype == 'toAppear' %}
           To appear in <i>{{ post.venue }}</i>
         {% elsif post.pubtype == 'arXiv' %}
-        	 {% if post.venue == '' %}
-          	<i>arXiv preprint</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+          {% if post.venue == '' %}
+            <i>arXiv preprint</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
           {% else %}
-          	<i>arXiv preprint</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}, submitted to <i>{{ post.venue }}</i>
+            <i>arXiv preprint</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}, submitted to <i>{{ post.venue }}</i>
           {% endif %}
         {% endif %}
       {% endif %}
@@ -85,6 +85,6 @@
       <div class="archive__item-excerpt" itemprop="description" style="color: #fff; text-align: center;">{{ post.excerpt | markdownify }}</div>
     {% else %}
       <div class="archive__item-excerpt" itemprop="description" style="color: #fff;">{{ post.excerpt | markdownify }}</div>
-  	 {% endif %} 
+    {% endif %} 
   </article>
 </div>

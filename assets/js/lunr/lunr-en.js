@@ -59,7 +59,7 @@ $(document).ready(function() {
           '</div>';
       }
       else{
-    	  var searchitem =
+        var searchitem =
           '<div class="list__item">'+
             '<article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">'+
               '<h2 class="archive__item-title" itemprop="headline">'+
