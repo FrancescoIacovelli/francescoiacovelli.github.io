@@ -12,5 +12,5 @@ Such a detector would be sensitive between a few mHz and a few Hz, thus bridging
 
 ## How do I contribute?
 
-I recently joined the LGWA project, contributing to the development of a “white paper” containing a vast study of both the scientific and technological prospects of this mission. In particular, I have been assigned a coordination role for the cosmology section, and I am also working on the observational and multiband capabilities of this experiment.
+I recently joined the LGWA project, contributing to the development of a “white paper” containing a vast study of both the scientific and technological prospects of this mission [[13]({{ site.baseurl }}{% link _publications/publication13.md %})]. In particular, I have been assigned a coordination role for the cosmology section, and I am also working on the observational and multiband capabilities of this experiment.
 
