@@ -7,7 +7,7 @@ date: 2023-10-27
 venue: "A&A"
 authorlist: "A. Colombo, R. Duqué, O. S. Salafia, F. S. Broekgaarden, **F. Iacovelli**, M. Mancarella, I. Andreoni, F. Gabrielli, F. Ragosta, G. Ghirlanda, T. Fragos, A. J. Levan, S. Piranomonte, A. Melandri, B. Giacomazzo and M. Colpi"
 classes: wide
-pubtype: "arXiv"
+pubtype: "toAppear"
 ---
 
 <html>
@@ -52,3 +52,4 @@ GRB afterglow light curves in the radio, optical and X-ray bands. The resulting 
 
 <i class="ai ai-arxiv ai-fw"></i> arXiv: <a href="https://arxiv.org/abs/2310.16894" target="_blank" rel="noopener">2310.16894 [astro-ph.HE]</a>
 
+<i class="ai ai-doi ai-fw"></i> Publisher DOI: <a href="https://doi.org/10.1051/0004-6361/202348384" target="_blank" rel="noopener">10.1051/0004-6361/202348384</a>
