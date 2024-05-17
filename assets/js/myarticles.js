@@ -47,7 +47,7 @@ function manageDefaults()
 	if (typeof arxiv_includeSummary === 'undefined') {
 		arxiv_includeSummary = 0; }
 	if (typeof arxiv_includeComments === 'undefined') {
-		arxiv_includeComments = 1; }
+		arxiv_includeComments = 0; }
 	if (typeof arxiv_includeSubjects === 'undefined') {
 		arxiv_includeSubjects = 1; }
 	if (typeof arxiv_includeJournalRef === 'undefined') {
@@ -129,7 +129,7 @@ function makearXiv(feed)
 		html += '<dt>['+(x+1)+']&nbsp\n';
 	    //add a span with the ref to the id in it
 		html += '\t<span class="list-identifier" style="font-weight:bold"><a href="'+feed.entries[x].id+'" title="Abstract">'+feed.entries[x].id+'</a> [ ';
-	    //now add the formats listed in the dictioary at feed.entries[x].formats
+	    //now add the formats listed in the dictionary at feed.entries[x].formats
 		for (format_name in feed.entries[x].formats) {
 		if (feed.entries[x].formats.hasOwnProperty(format_name)) {
 			var format_value = feed.entries[x].formats[format_name]
@@ -144,7 +144,14 @@ function makearXiv(feed)
 	    //Add the title in a span
 		html += '\t\t\t'+ feed.entries[x].title+'\n\t\t</div>';
 	    //add authors in a div
-		html += '\t\t<div class="list-authors" style="font-weight:normal;font-size:110%;text-decoration:none;">'+feed.entries[x].authors+'</div>\n';
+		// add only up to 10 authors
+		if ((feed.entries[x].authors.split(',').length) > 10) {
+			let authorsArray = feed.entries[x].authors.split(',');
+			let truncatedAuthors = authorsArray.slice(0, 10);
+			html += '\t\t<div class="list-authors" style="font-weight:normal;font-size:110%;text-decoration:none;">'+ truncatedAuthors.join(', ') +', et al.</div>\n';
+		} else {
+			html += '\t\t<div class="list-authors" style="font-weight:normal;font-size:110%;text-decoration:none;">'+ feed.entries[x].authors +'</div>\n';
+		}
 	    //Add comments in a div only if available
 		if (arxiv_includeComments && feed.entries[x].comment && feed.entries[x].comment.length > 1) {
 			html += '\t\t<div class="list-comments" style="font-weight:normal;font-size:90%;"><span class="descriptor">Comments:</span> ' + feed.entries[x].comment + '</div>\n';
@@ -219,7 +226,14 @@ function makePrettyarXiv(feed)
 		html += '<div class="entry" style="padding-left:6px;width:244px;background-color:#'+arxiv_entry_color+'">';
 		//Title and authors
 		html += '<div class="entrytitle"><a style="color:#008CBA;" href="' + feed.entries[x].id + '" target="_blank" rel="noopener">' + feed.entries[x].title + '</a></div>';
-		html += '<div class="entryauthors" style="margin-left:0.6em">' + feed.entries[x].authors+ '</div>';
+		// Add only up to 10 authors (et al. if more)
+		if ((feed.entries[x].authors.split(',').length) > 10) {
+			let authorsArray = feed.entries[x].authors.split(',');
+			let truncatedAuthors = authorsArray.slice(0, 10);
+			html += '<div class="entryauthors" style="margin-left:0.6em">' + truncatedAuthors.join(', ') + ', et al.</div>';
+		} else {
+			html += '<div class="entryauthors" style="margin-left:0.6em">' + feed.entries[x].authors+ '</div>';
+		}
 		//add summary only if desired
 		if (arxiv_includeSummary == 1)
 		{
