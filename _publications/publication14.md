@@ -3,12 +3,14 @@ title: "Classifying binary black holes from Population III stars with the Einste
 collection: publications
 permalink: /publications/publication14
 excerpt: "We study the prospects of classifying BBH originating from Population III stars observed through GWs at ET using machine learning"
-date: 2024-04-14
-venue: "A&A"
+date: 2024-10-22
+venue: "A&A 690, A362"
 authorlist: "F. Santoliquido, U. Dupletsa, J. Tissino, M. Branchesi, **F. Iacovelli**, G. Iorio, M. Mapelli, D. Gerosa, J. Harms, M. Pasquato"
 classes: wide
-pubtype: "arXiv"
+pubtype: "published"
 ---
+
+<span class="__dimensions_badge_embed__" data-doi="10.1051/0004-6361/202450381" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 <html>
 <head>
@@ -50,3 +52,5 @@ However, unequivocal determination of the origin of high-redshift sources will r
 ### Links
 
 <i class="ai ai-arxiv ai-fw"></i> arXiv: <a href="https://arxiv.org/abs/2404.10048" target="_blank" rel="noopener">2404.10048 [astro-ph.HE]</a>
+
+<i class="ai ai-doi ai-fw"></i> Publisher DOI: <a href="https://doi.org/10.1051/0004-6361/202450381" target="_blank" rel="noopener">10.1051/0004-6361/202450381</a>

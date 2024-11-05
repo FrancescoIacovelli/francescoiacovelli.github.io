@@ -7,7 +7,7 @@ date: 2024-04-14
 venue: "JCAP"
 authorlist: "P. Ajith, P. Amaro Seoane, M. Arca Sedda, et al. (incl. **F. Iacovelli**)"
 classes: wide
-pubtype: "arXiv"
+pubtype: "toAppear"
 ---
 
 <html>

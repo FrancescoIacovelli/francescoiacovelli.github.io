@@ -16,4 +16,6 @@ As a member of the ET Observational Science Board, I extensively worked on diffe
 
 Last year I produced state-of-the-art forecasts for ET and CE's observational capabilities for mergers of black holes and neutron stars [[5]({{ site.baseurl }}{% link _publications/publication5.md %})]. I then made a significant contribution to the development of [[8]({{ site.baseurl }}{% link _publications/publication8.md %})], in which different ET designs were considered *(computational speed was a key requirement!)*.
 
+Recently, I contributed to the development of a tool, built on top of [*GWFAST*]({{ site.baseurl }}{% link _code/software_package2.md %}), to forecast the population constraints attainable on compact binary populations at ET and CE [[17]({{ site.baseurl }}{% link _publications/publication17.md %})].
+
 I have also worked on more dedicated aspects of the ET science case with leading experts in the fields (primordial black holes [[9]({{ site.baseurl }}{% link _publications/publication9.md %})], neutron star equation of state [[10]({{ site.baseurl }}{% link _publications/publication10.md %})], Pop. III stars [[14]({{ site.baseurl }}{% link _publications/publication14.md %})]) and keep on working on **new topics** (recently **stochastic backgrounds** and **GR testing** at small scales) with new amazing collaborators!

@@ -102,10 +102,10 @@ analytics:
 author:
   name             : "Francesco Iacovelli"
   avatar           : "/assets/images/mypicture.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ph.D. student at the University of Geneva"
-  location         : "Geneva, Switzerland"
-  employer         : "University of Geneva"
-  email            : "Francesco.Iacovelli@unige.ch"
+  bio              : "Assistant Research Scientist (Miller Postdoctoral Fellow) at Johns Hopkins University"
+  location         : "Baltimore, MD, U.S."
+  employer         : "Johns Hopkins University"
+  email            : "fiacovelli@jhu.edu"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        : 

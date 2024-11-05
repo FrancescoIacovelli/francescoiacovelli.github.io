@@ -24,7 +24,11 @@ Clicking the buttons below you can download a PDF version of my CV with and with
 
 ## My career in a nutshell
 ---
-<p class="career"><b>2020 - in progress</b></p>
+<p class="career"><b>2024 - in progress</b></p>
+> Assistant Research Scientist<br>
+> Johns Hopkins University<br>
+
+<p class="career"><b>2020 - 2024</b></p>
 > Ph.D. in Theoretical Physics<br>
 > University of Geneva<br>
 > *Advisor: Prof. <a href="https://fiteoweb.unige.ch/~maggiore/" target="_blank" rel="noopener">Michele Maggiore</a>*<br>
@@ -55,7 +59,7 @@ Clicking the buttons below you can download a PDF version of my CV with and with
 ## Teaching
 ---
 
-<p class="career"><b>Spring Semester 2021 - current</b></p>
+<p class="career"><b>Spring Semester 2021 - 2024</b></p>
 > Teaching assistant<br>
 > [*Electrodynamics II*]({{ site.baseurl }}{% link _teaching/class1.md %})
 
@@ -67,5 +71,5 @@ Clicking the buttons below you can download a PDF version of my CV with and with
 > Teaching assistant<br>
 > [*Thermodynamics*]({{ site.baseurl }}{% link _teaching/class2.md %})
 
-<p class="career"><b>2022 - 2023</b></p>
+<p class="career"><b>2022 - 2024</b></p>
 > Maturity exam jury member<br>

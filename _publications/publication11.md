@@ -3,12 +3,14 @@ title: "Multi-messenger prospects for black hole – neutron star mergers in the
 collection: publications
 permalink: /publications/publication11
 excerpt: "We investigate the prospects of observing electromagnetic counterparts to black hole-neutron star mergers detected through gravitational waves during O4 and O5"
-date: 2023-10-27
-venue: "A&A"
+date: 2024-06-19
+venue: "A&A 686, A265"
 authorlist: "A. Colombo, R. Duqué, O. S. Salafia, F. S. Broekgaarden, **F. Iacovelli**, M. Mancarella, I. Andreoni, F. Gabrielli, F. Ragosta, G. Ghirlanda, T. Fragos, A. J. Levan, S. Piranomonte, A. Melandri, B. Giacomazzo and M. Colpi"
 classes: wide
-pubtype: "toAppear"
+pubtype: "published"
 ---
+
+<span class="__dimensions_badge_embed__" data-doi="10.1051/0004-6361/202348384" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 <html>
 <head>
@@ -53,3 +55,5 @@ GRB afterglow light curves in the radio, optical and X-ray bands. The resulting 
 <i class="ai ai-arxiv ai-fw"></i> arXiv: <a href="https://arxiv.org/abs/2310.16894" target="_blank" rel="noopener">2310.16894 [astro-ph.HE]</a>
 
 <i class="ai ai-doi ai-fw"></i> Publisher DOI: <a href="https://doi.org/10.1051/0004-6361/202348384" target="_blank" rel="noopener">10.1051/0004-6361/202348384</a>
+
+<img src="https://i0.wp.com/astrobites.org/wp-content/uploads/2020/02/49002989_2161456830583140_9156507225781436416_n.png?ssl=1" width='20' object-fit='scale-down'/> Astrobites article: <a href="https://astrobites.org/2023/11/30/the-bright-future-for-neutron-star-black-hole-mergers/" target="_blank" rel="noopener">https://astrobites.org/2023/11/30/the-bright-future-for-neutron-star-black-hole-mergers/</a>

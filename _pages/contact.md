@@ -9,11 +9,14 @@ classes: wide
 If you are interested in my research or simply want to know more about gravitational-wave physics and cosmology, here is my contact info.
 
 ### Email 
+[fiacovelli@jhu.edu](mailto:fiacovelli@jhu.edu)
 
-[Francesco.Iacovelli@unige.ch](mailto:Francesco.Iacovelli@unige.ch)
+[Old: [Francesco.Iacovelli@unige.ch](mailto:Francesco.Iacovelli@unige.ch)]
 
 ### Address
 
-Quai Ernest-Ansermet 24, 1205 Geneva, CH.
+Department of Physics and Astronomy, The Johns Hopkins University
 
-**Office building:** Science I, room 210.
+3400 N. Charles Street, Baltimore, MD 21218
+
+**Office building:** Bloomberg Center for Physics and Astronomy, room 441.

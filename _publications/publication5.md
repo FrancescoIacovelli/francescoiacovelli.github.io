@@ -5,7 +5,7 @@ permalink: /publications/publication5
 excerpt: "Up-to-date forecasts of the capabilities of Einstein Telescope and Cosmic Explorer to observe compact binary mergers."
 date: 2022-12-27
 venue: 'ApJ 941 208'
-authorlist: "**F. Iacovelli**, M. Mancarella, S. Foffa, M. Maggiore."
+authorlist: "**F. Iacovelli**, M. Mancarella, S. Foffa, M. Maggiore"
 classes: wide
 pubtype: "published"
 ---
