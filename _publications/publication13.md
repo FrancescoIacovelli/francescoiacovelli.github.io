@@ -2,7 +2,7 @@
 title: "The Lunar Gravitational-wave Antenna: Mission Studies and Science Case"
 collection: publications
 permalink: /publications/publication13
-excerpt: "We provide a first comprehensive analysis of the LGWA science case including its multi-messenger aspects and lunar science"
+excerpt: "We provide a first comprehensive analysis of the Lunar Gravitational-wave Antenna science case including its multi-messenger aspects and lunar science"
 date: 2024-04-14
 venue: "JCAP"
 authorlist: "P. Ajith, P. Amaro Seoane, M. Arca Sedda, et al. (incl. **F. Iacovelli**)"
@@ -41,7 +41,7 @@ if (recid === "undefined") {
 We explore the science case of the proposed Lunar Gravitational Wave Antenna mission, focusing both on the GW science and multi-messenger capabilities, as well as on the Lunar science.
 
 ### Contribution
-I coordinated the work and writing of the GW cosmology part of the paper and contributed to other sections, including forecasts for localization and multiband capabilities with LGWA.     
+I coordinated the work and writing of the GW cosmology part of the paper and contributed to other sections, including forecasts for localization and multiband capabilities with LGWA.
 
 ### Abstract
 The Lunar Gravitational-wave Antenna (*LGWA*) is a proposed array of next-generation inertial sensors to monitor the response of the Moon to gravitational waves (GWs). Given the size of the Moon and the expected noise produced by the lunar seismic background, the LGWA would be able to observe GWs from about 1 mHz to 1 Hz. This would make the LGWA the missing link between space-borne detectors like LISA with peak sensitivities around a few millihertz and proposed future terrestrial detectors like Einstein Telescope or Cosmic Explorer. In this article, we provide a first comprehensive analysis of the LGWA science case including its multi-messenger aspects and lunar science with LGWA data. We also describe the scientific analyses of the Moon required to plan the LGWA mission.

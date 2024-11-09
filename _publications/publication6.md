@@ -40,7 +40,7 @@ if (recid === "undefined") {
 </html>
 
 ### Summary
-We review how different &gamma;-ray burst emission models predict different polarization angles of the jet, and study how GRB polarimetry measurements can be complemented by GW observations both at 2G and 3G detectors in order to obtain information on the GRB mechanism. We find that, although unlikely in the near future,  already a single joint detection could allow us to rule out most of the emission models.
+We review how different &gamma;-ray burst emission models predict different polarization angles of the jet, and study how GRB polarimetry measurements can be complemented by GW observations both at 2G and 3G detectors in order to obtain information on the GRB mechanism. We find that, although unlikely in the near future, already a single joint detection could allow us to rule out most of the emission models.
 
 ### Contribution
 I produced the results and plots of the gravitational wave part, also participating in the theoretical development of the paper.

@@ -2,7 +2,7 @@
 title: "Cosmology and Astrophysics with Standard Sirens and Galaxy Catalogs in View of Future Gravitational Wave Observations"
 collection: publications
 permalink: /publications/publication12
-excerpt: "We develop a code to perform a joint population and cosmological inference on GW data and galaxy catalogs, and apply it to simulated O4 and O5 catalogs of GW"
+excerpt: "We develop a code to perform a joint population and cosmological inference on gravitational-wave data and galaxy catalogs, and apply it to simulated O4 and O5 catalogs of gravitational waves"
 date: 2024-03-29
 venue: "ApJ 964 191"
 authorlist: "N. Borghi, M. Mancarella, M. Moresco, M. Tagliazucchi, **F. Iacovelli**, A. Cimatti, M. Maggiore"

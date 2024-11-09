@@ -2,7 +2,7 @@
 title: "Combining underground and on-surface third-generation gravitational-wave interferometers"
 collection: publications
 permalink: /publications/publication16
-excerpt: "We examine the scientific potential of a European 3G network comprising two L-shaped detectors, one underground and one on-surface"
+excerpt: "We examine the scientific potential of a European third-generation network comprising two L-shaped detectors, one underground and one on-surface"
 date: 2024-10-25
 venue: 'JCAP10(2024)085'
 authorlist: "**F. Iacovelli**, E. Belgacem, M. Maggiore, M. Mancarella, N. Muttoni"
@@ -44,7 +44,7 @@ We compare on several sensible metrics the performance of ET (both in the triang
 
 
 ### Abstract
-Recently, detailed studies have been made to compare the performance of the European next generation GW observatory Einstein Telescope (ET) in a single-site triangular configuration with the performance of a configuration featuring two L-shaped detectors in different sites, still taken to have all other ET characteristics except for the geometry, in particular, underground and composed of a low-frequency interferometer working at cryogenic temperatures and a high-frequency interferometer working at room temperature.Here we study a further possibility for a European network, made by a single L-shaped underground detector, like one of the detectors considered for the 2L version of ET, and a single third-generation 20-km L-shaped interferometer on the surface.We compare the performances of such a network to those of the triangle and of the 2L-underground ET configurations. We then examine the performance of an intercontinental network made by a 40-km CE in the U.S., together with any of these European networks.
+Recently, detailed studies have been made to compare the performance of the European next generation GW observatory Einstein Telescope (ET) in a single-site triangular configuration with the performance of a configuration featuring two L-shaped detectors in different sites, still taken to have all other ET characteristics except for the geometry, in particular, underground and composed of a low-frequency interferometer working at cryogenic temperatures and a high-frequency interferometer working at room temperature. Here we study a further possibility for a European network, made by a single L-shaped underground detector, like one of the detectors considered for the 2L version of ET, and a single third-generation 20-km L-shaped interferometer on the surface.We compare the performances of such a network to those of the triangle and of the 2L-underground ET configurations. We then examine the performance of an intercontinental network made by a 40-km CE in the U.S., together with any of these European networks.
 
 ### Links
 

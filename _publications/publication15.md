@@ -2,12 +2,12 @@
 title: "Accurate standard siren cosmology with joint gravitational-wave and &gamma;-ray burst observations"
 collection: publications
 permalink: /publications/publication15
-excerpt: "We develop a way to perform unbiased estimations of the expansion rate of the Universe from GW+GRB detections and a new GW likelihood approximant"
+excerpt: "We develop a way to perform unbiased estimations of the expansion rate of the Universe from gravitational-wave + &gamma;-ray burst detections and a new gravitational-wave likelihood approximant"
 date: 2024-05-03
-venue: ""
+venue: "Phys. Rev. Lett."
 authorlist: "M. Mancarella, **F. Iacovelli**, S. Foffa, N. Muttoni, M. Maggiore"
 classes: wide
-pubtype: "arXiv"
+pubtype: "toAppear"
 ---
 
 <html>

@@ -2,7 +2,7 @@
 title: "*GWFAST*: A Fisher Information Matrix Python Code for third-generation gravitational-wave detectors"
 collection: publications
 permalink: /publications/publication4
-excerpt: "We release, review,  and validate the *GWFAST* code!"
+excerpt: "We release, review, and validate the *GWFAST* code!"
 date: 2022-10-21
 venue: 'ApJS 263 2'
 authorlist: "**F. Iacovelli**, M. Mancarella, S. Foffa, M. Maggiore"
