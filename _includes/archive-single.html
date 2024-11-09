@@ -33,7 +33,7 @@
       
     <!-- Publications -->
     {% elsif post.collection == 'publications' %}
-    <div class="talk_authorlist" itemprop="description" style="color: #fff;">
+    <div class="talk_authorlist" itemprop="description" style="color: #fff; line-height: 0.9; margin-bottom: 8px;">
       {% if post.authorlist %}<small><strong>Authors: </strong>{{ post.authorlist | markdownify | remove: "<p>" | remove: "</p>" }}</small>{% endif %}
     </div>
     <div class="talk_venue" style="color: #fff;">

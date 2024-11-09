@@ -38,7 +38,7 @@ classes: wide
       {% endunless %}
       
       <!--Author Line-->
-      {% if page.authorlist %}<p id="page-authorlist" class="page__content" itemprop="text"><strong>Authors: </strong>{{ page.authorlist | markdownify | remove: "<p>" | remove: "</p>" }}</p>{% endif %}
+      {% if page.authorlist %}<p id="page-authorlist" class="page__content" itemprop="text" style="line-height: 1.2;"><strong>Authors: </strong>{{ page.authorlist | markdownify | remove: "<p>" | remove: "</p>" }}</p>{% endif %}
       
       <!--Date Line-->
       {% if page.date %}

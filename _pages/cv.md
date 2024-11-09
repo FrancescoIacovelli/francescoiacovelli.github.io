@@ -32,6 +32,7 @@ Clicking the buttons below you can download a PDF version of my CV with and with
 > Ph.D. in Theoretical Physics<br>
 > University of Geneva<br>
 > *Advisor: Prof. <a href="https://fiteoweb.unige.ch/~maggiore/" target="_blank" rel="noopener">Michele Maggiore</a>*<br>
+> Final degree: très bien<br>
 
 <p class="career"><b>2022 - 2023</b></p>
 > Swiss Institute Milano Calling Fellowship<br>
@@ -59,17 +60,47 @@ Clicking the buttons below you can download a PDF version of my CV with and with
 ## Teaching
 ---
 
-<p class="career"><b>Spring Semester 2021 - 2024</b></p>
-> Teaching assistant<br>
-> [*Electrodynamics II*]({{ site.baseurl }}{% link _teaching/class1.md %})
+<details>
+  <summary><b>University of Geneva &#8212; 2021 -  2024</b></summary>
+  <div style="margin-left: 20px;">
+  <p class="career"><b>Spring Semester 2024</b></p>
+  <br>
+  <blockquote>
+    Teaching assistant<br>
+    <a href="{{ site.baseurl }}{% link _teaching/class4.md %}">Electrodynamics III</a><br>
+  </blockquote>
 
-<p class="career"><b>Fall Semester 2023</b></p>
-> Teaching assistant & tutor<br>
-> [*Mathematical methods for Physics I (Athena Program)*]({{ site.baseurl }}{% link _teaching/class3.md %})
+  <p class="career"><b>Fall Semester 2023</b></p>
+  <br>
+  <blockquote>
+    Teaching assistant & tutor<br>
+    <a href="{{ site.baseurl }}{% link _teaching/class3.md %}">Mathematical methods for Physics I (Athena Program)</a><br>
+  </blockquote>
 
-<p class="career"><b>Fall Semester 2021</b></p>
-> Teaching assistant<br>
-> [*Thermodynamics*]({{ site.baseurl }}{% link _teaching/class2.md %})
+  <p class="career"><b>Spring Semester 2021 - 2023</b></p>
+  <br>
+  <blockquote>
+    Teaching assistant<br>
+    <a href="{{ site.baseurl }}{% link _teaching/class1.md %}">Electrodynamics II</a><br>
+  </blockquote>
 
-<p class="career"><b>2022 - 2024</b></p>
-> Maturity exam jury member<br>
+  <p class="career"><b>Fall Semester 2021</b></p>
+  <br>
+  <blockquote>
+    Teaching assistant<br>
+    <a href="{{ site.baseurl }}{% link _teaching/class2.md %}">Thermodynamics</a><br>
+  </blockquote>
+</div>
+</details>
+
+<details style="margin-top: 10px;">
+  <summary><b>Other</b></summary>
+  <div style="margin-left: 20px;">
+  <p class="career"><b>2022 - 2024</b></p>
+  <br>
+  <blockquote>
+    Swiss maturity exam jury member<br>
+    Subjects: “Physics and Applications of Mathematics” and “Mathematics”<br>
+  </blockquote>
+</div>
+</details>

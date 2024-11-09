@@ -56,4 +56,4 @@ GRB afterglow light curves in the radio, optical and X-ray bands. The resulting 
 
 <i class="ai ai-doi ai-fw"></i> Publisher DOI: <a href="https://doi.org/10.1051/0004-6361/202348384" target="_blank" rel="noopener">10.1051/0004-6361/202348384</a>
 
-<img src="https://i0.wp.com/astrobites.org/wp-content/uploads/2020/02/49002989_2161456830583140_9156507225781436416_n.png?ssl=1" width='20' object-fit='scale-down'/> Astrobites article: <a href="https://astrobites.org/2023/11/30/the-bright-future-for-neutron-star-black-hole-mergers/" target="_blank" rel="noopener">https://astrobites.org/2023/11/30/the-bright-future-for-neutron-star-black-hole-mergers/</a>
+&#160;<img src="https://i0.wp.com/astrobites.org/wp-content/uploads/2020/02/49002989_2161456830583140_9156507225781436416_n.png?ssl=1" width='20' object-fit='scale-down'/>&#160;Astrobites article: <a href="https://astrobites.org/2023/11/30/the-bright-future-for-neutron-star-black-hole-mergers/" target="_blank" rel="noopener">https://astrobites.org/2023/11/30/the-bright-future-for-neutron-star-black-hole-mergers/</a>
