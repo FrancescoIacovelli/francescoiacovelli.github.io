@@ -3,11 +3,11 @@ title: "Forecasting the population properties of merging black holes"
 collection: publications
 permalink: /publications/publication17
 excerpt: "We develop a Fisher tool for forecasts on population analyses at third-generation detectors"
-date: 2024-10-22
-venue: "Phys. Rev. D"
+date: 2025-02-18
+venue: "Phys. Rev. D 111, 044048"
 authorlist: "V. De Renzis, **F. Iacovelli**, D. Gerosa, M. Mancarella, C. Pacilio"
 classes: wide
-pubtype: "arXiv"
+pubtype: "published"
 ---
 
 <html>
@@ -50,3 +50,5 @@ Third-generation gravitational-wave detectors will observe up to millions of mer
 ### Links
 
 <i class="ai ai-arxiv ai-fw"></i> arXiv: <a href="https://arxiv.org/abs/2410.17325" target="_blank" rel="noopener">2410.17325 [astro-ph.HE]</a>
+
+<i class="ai ai-doi ai-fw"></i> Publisher DOI: <a href="https://doi.org/10.1103/PhysRevD.111.044048" target="_blank" rel="noopener">10.1103/PhysRevD.111.044048</a>

@@ -3,11 +3,11 @@ title: "Accurate standard siren cosmology with joint gravitational-wave and &gam
 collection: publications
 permalink: /publications/publication15
 excerpt: "We develop a way to perform unbiased estimations of the expansion rate of the Universe from gravitational-wave + &gamma;-ray burst detections and a new gravitational-wave likelihood approximant"
-date: 2024-05-03
-venue: "Phys. Rev. Lett."
+date: 2024-12-26
+venue: "Phys. Rev. Lett. 133, 261001"
 authorlist: "M. Mancarella, **F. Iacovelli**, S. Foffa, N. Muttoni, M. Maggiore"
 classes: wide
-pubtype: "toAppear"
+pubtype: "published"
 ---
 
 <html>
@@ -44,8 +44,10 @@ We show how to get rid of biases in H<sub>0</sub> estimations from GW+GRB detect
 I took part in the development and implementation of the new GW approximant and the inclusion of noise scatter in the measurement, as well as in the reviewing of the hierarchical bayesian likelihood and writing. 
 
 ### Abstract
-Joint gravitational-wave and &gamma;-ray bursts (GRB) observations are among the best prospects for standard siren cosmology. However, the strong selection effect for the coincident GRB detection, which is possible only for sources with small inclination angles, induces a systematic uncertainty that is currently not accounted for. We show that this severe source of bias can be removed by inferring the a-priori unknown electromagnetic detection probability directly from multimessenger data. This leads at the same time to an unbiased measurement of the Hubble constant, to constrain the properties of GRB emission, and to accurately measure the viewing angle of each source. Our inference scheme is applicable to real data already in the small-statistics regime, a scenario that might become reality in the near future. Additionally, we introduce a novel likelihood approximant for GW events which treats the dependence on distance and inclination as exact.
+Joint gravitational-wave and &gamma;-ray bursts (GRB) observations are among the best prospects for standard siren cosmology. However, the strong selection effect for the coincident GRB detection, which is possible only for sources with small inclination angles, induces a systematic uncertainty that is currently not accounted for. We show that this severe source of bias can be removed by inferring the *a priori* unknown electromagnetic detection probability directly from multimessenger data. This leads at the same time to an unbiased measurement of the Hubble constant, to constrain the properties of GRB emission, and to accurately measure the viewing angle of each source. Our inference scheme is applicable to real data already in the small-statistics regime, a scenario that might become reality in the near future. Additionally, we introduce a novel likelihood approximant for GW events which treats the dependence on distance and inclination as exact.
 
 ### Links
 
 <i class="ai ai-arxiv ai-fw"></i> arXiv: <a href="https://arxiv.org/abs/2405.02286" target="_blank" rel="noopener">2405.02286 [astro-ph.HE]</a>
+
+<i class="ai ai-doi ai-fw"></i> Publisher DOI: <a href="https://doi.org/10.1103/PhysRevLett.133.261001" target="_blank" rel="noopener">10.1103/PhysRevLett.133.261001</a>

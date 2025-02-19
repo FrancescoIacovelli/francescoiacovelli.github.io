@@ -3,11 +3,11 @@ title: "The Lunar Gravitational-wave Antenna: Mission Studies and Science Case"
 collection: publications
 permalink: /publications/publication13
 excerpt: "We provide a first comprehensive analysis of the Lunar Gravitational-wave Antenna science case including its multi-messenger aspects and lunar science"
-date: 2024-04-14
-venue: "JCAP"
+date: 2025-01-08
+venue: "JCAP01(2025)108"
 authorlist: "P. Ajith, P. Amaro Seoane, M. Arca Sedda, et al. (incl. **F. Iacovelli**)"
 classes: wide
-pubtype: "toAppear"
+pubtype: "published"
 ---
 
 <html>
@@ -49,3 +49,5 @@ The Lunar Gravitational-wave Antenna (*LGWA*) is a proposed array of next-genera
 ### Links
 
 <i class="ai ai-arxiv ai-fw"></i> arXiv: <a href="https://arxiv.org/abs/2404.09181" target="_blank" rel="noopener">2404.09181 [gr-qc]</a>
+
+<i class="ai ai-doi ai-fw"></i> Publisher DOI: <a href="https://doi.org/10.1088/1475-7516/2025/01/108" target="_blank" rel="noopener">10.1088/1475-7516/2025/01/108</a>
