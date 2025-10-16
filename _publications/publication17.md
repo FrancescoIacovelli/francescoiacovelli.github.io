@@ -2,7 +2,7 @@
 title: "Forecasting the population properties of merging black holes"
 collection: publications
 permalink: /publications/publication17
-excerpt: "We develop a Fisher tool for forecasts on population analyses at third-generation detectors"
+excerpt: "We develop a Fisher tool for forecasts on population analyses at third-generation detectors."
 date: 2025-02-18
 venue: "Phys. Rev. D 111, 044048"
 authorlist: "V. De Renzis, **F. Iacovelli**, D. Gerosa, M. Mancarella, C. Pacilio"

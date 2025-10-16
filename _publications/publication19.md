@@ -2,13 +2,15 @@
 title: "Confusion noise from astrophysical backgrounds at third-generation gravitational-wave detector networks"
 collection: publications
 permalink: /publications/publication19
-excerpt: "We compute the impact of astrophysical “confusion noise” in the search for cosmological gravitational-wave backgrounds"
+excerpt: "We compute the impact of astrophysical “confusion noise” in the search for cosmological gravitational-wave backgrounds."
 date: 2024-11-06
-venue: "Phys. Rev. D"
+venue: "Phys. Rev. D 112, 083007"
 authorlist: "E. Belgacem, **F. Iacovelli**, M. Maggiore, M. Mancarella, N. Muttoni"
 classes: wide
-pubtype: "arXiv"
+pubtype: "published"
 ---
+
+<span class="__dimensions_badge_embed__" data-doi="10.1103/mr25-ftqd" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 <html>
 <head>
@@ -49,3 +51,5 @@ At third-generation (3G) gravitational-wave detector networks, compact binaries 
 ### Links
 
 <i class="ai ai-arxiv ai-fw"></i> arXiv: <a href="https://arxiv.org/abs/2411.04029" target="_blank" rel="noopener">2411.04029 [gr-qc]</a>
+
+<i class="ai ai-doi ai-fw"></i> Publisher DOI: <a href="https://doi.org/10.1103/mr25-ftqd" target="_blank" rel="noopener">10.1103/mr25-ftqd</a>

@@ -2,7 +2,7 @@
 title: "Classifying binary black holes from Population III stars with the Einstein Telescope: a machine-learning approach"
 collection: publications
 permalink: /publications/publication14
-excerpt: "We study the prospects of classifying binary black holes originating from Population III stars observed through gravitational waves at the Einstein Telescope using machine learning"
+excerpt: "We study the prospects of classifying binary black holes originating from Population III stars observed through gravitational waves at the Einstein Telescope using machine learning."
 date: 2024-10-22
 venue: "A&A 690, A362"
 authorlist: "F. Santoliquido, U. Dupletsa, J. Tissino, M. Branchesi, **F. Iacovelli**, G. Iorio, M. Mapelli, D. Gerosa, J. Harms, M. Pasquato"

@@ -2,7 +2,7 @@
 title: "The Lunar Gravitational-wave Antenna: Mission Studies and Science Case"
 collection: publications
 permalink: /publications/publication13
-excerpt: "We provide a first comprehensive analysis of the Lunar Gravitational-wave Antenna science case including its multi-messenger aspects and lunar science"
+excerpt: "We provide a first comprehensive analysis of the Lunar Gravitational-wave Antenna science case including its multi-messenger aspects and lunar science."
 date: 2025-01-08
 venue: "JCAP01(2025)108"
 authorlist: "P. Ajith, P. Amaro Seoane, M. Arca Sedda, et al. (incl. **F. Iacovelli**)"

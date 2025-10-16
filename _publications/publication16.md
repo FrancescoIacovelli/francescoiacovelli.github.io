@@ -2,7 +2,7 @@
 title: "Combining underground and on-surface third-generation gravitational-wave interferometers"
 collection: publications
 permalink: /publications/publication16
-excerpt: "We examine the scientific potential of a European third-generation network comprising two L-shaped detectors, one underground and one on-surface"
+excerpt: "We examine the scientific potential of a European third-generation network comprising two L-shaped detectors, one underground and one on-surface."
 date: 2024-10-25
 venue: 'JCAP10(2024)085'
 authorlist: "**F. Iacovelli**, E. Belgacem, M. Maggiore, M. Mancarella, N. Muttoni"

@@ -2,12 +2,12 @@
 title: "Comparison of global networks of third-generation gravitational-wave detectors"
 collection: publications
 permalink: /publications/publication20
-excerpt: "We examine the scientific potential of different ET designs in combination with CE"
+excerpt: "We examine the scientific potential of different ET designs in combination with CE."
 date: 2024-11-08
-venue: ""
+venue: "Class. Quantum Grav."
 authorlist: "M. Maggiore, **F. Iacovelli**, E. Belgacem, M. Mancarella, N. Muttoni"
 classes: wide
-pubtype: "arXiv"
+pubtype: "toAppear"
 ---
 
 <html>
@@ -49,3 +49,5 @@ We study the performances of a world-wide network made by a European third-gener
 ### Links
 
 <i class="ai ai-arxiv ai-fw"></i> arXiv: <a href="https://arxiv.org/abs/2411.05754" target="_blank" rel="noopener">2411.05754 [gr-qc]</a>
+
+<i class="ai ai-doi ai-fw"></i> Publisher DOI: <a href="https://doi.org/10.1088/1361-6382/ae110b" target="_blank" rel="noopener"> 10.1088/1361-6382/ae110b</a>

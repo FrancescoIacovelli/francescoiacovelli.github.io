@@ -2,9 +2,9 @@
 title: "Systematic biases from the exclusion of higher harmonics in parameter estimation on LISA binaries"
 collection: publications
 permalink: /publications/publication21
-excerpt: "We assess the impact of an insufficient higher-order mode content in waveform templates on the parameter estimation of LISA massive BH binary systems"
+excerpt: "We assess the impact of an insufficient higher-order mode content in waveform templates on the parameter estimation of LISA massive BH binary systems."
 date: 2025-02-17
-venue: ""
+venue: "Phys. Rev. D"
 authorlist: "S. Yi, **F. Iacovelli**,  S. Marsat, D. Wadekar, E. Berti"
 classes: wide
 pubtype: "arXiv"
