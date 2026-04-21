@@ -3,12 +3,14 @@ title: "Comparison of global networks of third-generation gravitational-wave det
 collection: publications
 permalink: /publications/publication20
 excerpt: "We examine the scientific potential of different ET designs in combination with CE."
-date: 2024-11-08
-venue: "Class. Quantum Grav."
+date: 2025-10-23
+venue: "Class. Quantum Grav. 42 215004"
 authorlist: "M. Maggiore, **F. Iacovelli**, E. Belgacem, M. Mancarella, N. Muttoni"
 classes: wide
-pubtype: "toAppear"
+pubtype: "published"
 ---
+
+<span class="__dimensions_badge_embed__" data-doi="10.1088/1361-6382/ae110b" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 <html>
 <head>

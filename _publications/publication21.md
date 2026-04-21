@@ -1,14 +1,16 @@
 ---
-title: "Systematic biases from the exclusion of higher harmonics in parameter estimation on LISA binaries"
+title: "Systematic biases in parameter estimation on LISA binaries: The effect of excluding higher harmonics for non-spinning binaries"
 collection: publications
 permalink: /publications/publication21
 excerpt: "We assess the impact of an insufficient higher-order mode content in waveform templates on the parameter estimation of LISA massive BH binary systems."
-date: 2025-02-17
-venue: "Phys. Rev. D"
+date: 2025-12-18
+venue: "Phys. Rev. D 112, 124063"
 authorlist: "S. Yi, **F. Iacovelli**,  S. Marsat, D. Wadekar, E. Berti"
 classes: wide
-pubtype: "arXiv"
+pubtype: "published"
 ---
+
+<span class="__dimensions_badge_embed__" data-doi="10.1103/3gs3-gmb4" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 <html>
 <head>
@@ -49,3 +51,5 @@ The remarkable sensitivity achieved by the planned Laser Interferometer Space An
 ### Links
 
 <i class="ai ai-arxiv ai-fw"></i> arXiv: <a href="https://arxiv.org/abs/2502.12237" target="_blank" rel="noopener">2502.12237 [gr-qc]</a>
+
+<i class="ai ai-doi ai-fw"></i> Publisher DOI: <a href="https://doi.org/10.1103/3gs3-gmb4" target="_blank" rel="noopener">10.1103/3gs3-gmb4</a>

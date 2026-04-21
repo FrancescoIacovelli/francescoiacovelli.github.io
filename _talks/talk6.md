@@ -1,11 +1,11 @@
 ---
-title: "6)* Forecasting the detection capabilities of third–generation gravitational–wave detectors using *GWFAST*"
+title: "6) Forecasting the detection capabilities of third–generation gravitational–wave detectors using *GWFAST*"
 collection: talks
-type: "Invited talk"
-venue: "University of Milano Bicocca"
-date: 2023-01-26
-link: "https://www.fisica.unimib.it/it/eventi/seminario-francesco-iacovelli"
-location: "Milan (IT)"
+type: "Contributed talk"
+venue: "PUMA22 Conference"
+date: 2022-09-27
+link: "https://agenda.infn.it/event/18651/"
+location: "Sestri Levante (IT)"
 ---
 
 I presented recent forecasts for the capabilities of the Einstein Telescope to observe compact binary mergers obtained with *GWFAST*.

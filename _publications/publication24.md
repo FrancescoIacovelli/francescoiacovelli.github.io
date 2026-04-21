@@ -3,12 +3,14 @@ title: "The Science of the Einstein Telescope"
 collection: publications
 permalink: /publications/publication24
 excerpt: "We present an exhaustive discussion of the scientific propsects of ET."
-date: 2025-03-15
-venue: 'JCAP'
+date: 2026-03-26
+venue: 'JCAP03(2026)081'
 authorlist: "A. Abac, et al. (incl. **F. Iacovelli**)"
 classes: wide
-pubtype: "toAppear"
+pubtype: "published"
 ---
+
+<span class="__dimensions_badge_embed__" data-doi="10.1088/1475-7516/2026/03/081" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 <html>
 <head>
@@ -49,3 +51,5 @@ Einstein Telescope (ET) is the European project for a gravitational-wave (GW) ob
 ### Links
 
 <i class="ai ai-arxiv ai-fw"></i> arXiv: <a href="https://arxiv.org/abs/2303.15923" target="_blank" rel="noopener">2503.12263 [gr-qc]</a>
+
+<i class="ai ai-doi ai-fw"></i> Publisher DOI: <a href="https://doi.org/10.1088/1475-7516/2026/03/081" target="_blank" rel="noopener">10.1088/1475-7516/2026/03/081</a>

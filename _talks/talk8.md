@@ -1,13 +1,11 @@
 ---
-title: "8) Nuclear Physics with ET: a comparison of different designs"
+title: "8)* Einstein Telescope: science objectives and current status"
 collection: talks
 type: "Invited talk"
-venue: "XIII ET Symposium"
-date: 2023-05-08
-link: "https://indico.ego-gw.it/event/562/"
-location: "Cagliari (IT)"
+venue: "57<sup>th</sup> Rencontres de Moriond, Gravitation"
+date: 2023-03-22
+link: "https://moriond.in2p3.fr/2023/Gravitation/"
+location: "La Thuile (IT)"
 ---
 
-I showed recent results showing how different ET configurations perform in the estimation of neutron star properties and EoS.
-
-Based on <a href="https://doi.org/10.1088/1475-7516/2023/07/068" target="_blank" rel="noopener">JCAP 07(2023)068</a> and <a href="https://arxiv.org/abs/2308.12378" target="_blank" rel="noopener">arXiv:2308.12378</a>.
+Collaboration talk on behalf of the Einstein Telescope Collaboration on the current status and scientific targets of the Einstein Telescope.

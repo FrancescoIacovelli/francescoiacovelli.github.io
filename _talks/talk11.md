@@ -1,13 +1,13 @@
 ---
-title: "11) Forecasting the detection capabilities of third–generation gravitational–wave detectors using *GWFAST*"
+title: "11) Searching for Primordial Black Holes with the Einstein Telescope"
 collection: talks
 type: "Contributed talk"
-venue: "15<sup>th</sup> Edoardo Amaldi Conference on Gravitational Waves"
-date: 2023-07-20
-link: "https://amaldi15.org"
-location: "Online"
+venue: "Third EuCAPT Annual Symposium"
+date: 2023-06-02
+link: "https://indico.cern.ch/event/1218730/"
+location: "CERN"
 ---
 
-I presented recent forecasts for the capabilities of the Einstein Telescope to observe compact binary mergers obtained with *GWFAST*.
+I presented a forecast for the capabilities of the Einstein Telescope to measure key quantities characterizing PHB mergers and observe a population of these objects.
 
-Based on <a href="https://doi.org/10.3847/1538-4357/ac9cd47" target="_blank" rel="noopener">Astrophys. J. 941 (2022) 2, 208</a> and <a href="https://iopscience.iop.org/article/10.3847/1538-4365/ac9129" target="_blank" rel="noopener">Astrophys. J. Supp. 263 (2022) 1, 2</a>.
+Based on <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.043506" target="_blank" rel="noopener">Phys. Rev. D 108, 043506 (2023)</a>.

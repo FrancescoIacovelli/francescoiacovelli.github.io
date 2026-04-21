@@ -1,13 +1,13 @@
 ---
-title: "9)* *GWFAST*: a Fisher-matrix Python code for third-generation gravitational-wave detectors"
+title: "9) Nuclear Physics with ET: a comparison of different designs"
 collection: talks
 type: "Invited talk"
 venue: "XIII ET Symposium"
-date: 2023-05-10
+date: 2023-05-08
 link: "https://indico.ego-gw.it/event/562/"
 location: "Cagliari (IT)"
 ---
 
-I presented the *GWFAST* code and talked about the community effort toward the development of Fisher codes for 3G detectors.
+I showed recent results showing how different ET configurations perform in the estimation of neutron star properties and EoS.
 
-Based on <a href="https://doi.org/10.3847/1538-4357/ac9cd47" target="_blank" rel="noopener">Astrophys. J. 941 (2022) 2, 208</a> and <a href="https://iopscience.iop.org/article/10.3847/1538-4365/ac9129" target="_blank" rel="noopener">Astrophys. J. Supp. 263 (2022) 1, 2</a>.
+Based on <a href="https://doi.org/10.1088/1475-7516/2023/07/068" target="_blank" rel="noopener">JCAP 07(2023)068</a> and <a href="https://arxiv.org/abs/2308.12378" target="_blank" rel="noopener">arXiv:2308.12378</a>.

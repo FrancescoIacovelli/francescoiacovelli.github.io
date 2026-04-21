@@ -48,4 +48,4 @@ Bayesian inference plays a central role in scientific and engineering applicatio
 
 ### Links
 
-<i class="ai ai-arxiv ai-fw"></i> arXiv: <a href="https://arxiv.org/abs/2503.00116" target="_blank" rel="noopener">2509.01942 [stat.AP]</a>
+<i class="ai ai-arxiv ai-fw"></i> arXiv: <a href="https://arxiv.org/abs/2509.01942" target="_blank" rel="noopener">2509.01942 [stat.AP]</a>
